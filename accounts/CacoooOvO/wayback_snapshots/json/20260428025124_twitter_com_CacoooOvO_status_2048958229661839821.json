@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042606909086404616",
+    "conversation_id": "2048767936064888888",
+    "created_at": "2026-04-28T02:51:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T03:51:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048958229661839821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1885218193494736896",
+          "start": 0,
+          "username": "Xnmurrr_"
+        },
+        {
+          "end": 24,
+          "id": "1954524887454011392",
+          "start": 10,
+          "username": "xiexiefubenXX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048958229661839821",
+    "in_reply_to_user_id": "1885218193494736896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048767936064888888",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xnmurrr_ @xiexiefubenXX 蹲蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042606909086404616",
+        "conversation_id": "2048767936064888888",
+        "created_at": "2026-04-28T02:51:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T03:51:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048958229661839821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1885218193494736896",
+              "start": 0,
+              "username": "Xnmurrr_"
+            },
+            {
+              "end": 24,
+              "id": "1954524887454011392",
+              "start": 10,
+              "username": "xiexiefubenXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048958229661839821",
+        "in_reply_to_user_id": "1885218193494736896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048767936064888888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xnmurrr_ @xiexiefubenXX 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885218193494736896",
+        "conversation_id": "2048767936064888888",
+        "created_at": "2026-04-27T14:15:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T15:15:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048767936064888888"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "餐券"
+            },
+            {
+              "end": 8,
+              "start": 4,
+              "tag": "互fo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048767936064888888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1062,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "#餐券 #互fo 100fo抽个52呀谢谢宝宝们 转发参与"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-10T14:14:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "South Heart, North Dakota, United States",
+              "geo": {
+                "coordinates": [
+                  -102.99157,
+                  46.86473
+                ],
+                "type": "Point"
+              },
+              "locality": "South Heart",
+              "region": "North Dakota",
+              "sub_region": "Stark County"
+            }
+          ]
+        },
+        "description": "Caco/呓语\n简中/繁中/En\n温良婊，微审回fo、无🚪欢迎来找我玩\n餐券🈹️/o三年/烟草品鉴\n喜欢玩各种音游（邦多利为主）和明日方舟（澄闪厨",
+        "id": "2042606909086404616",
+        "location": "Your heart",
+        "name": "Camellia",
+        "pinned_tweet_id": "2046822210850230557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042609084139212801/zXgrc0gB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 598,
+          "like_count": 884,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 210
+        },
+        "username": "CacoooOvO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-31T06:47:07.000Z",
+        "description": "=南 可以叫我南南\n低浮上｜双向｜餐券｜自伤｜中文⭕️",
+        "id": "1885218193494736896",
+        "name": "🧊",
+        "pinned_tweet_id": "2048422337746518047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047309529088688128/CjD2cBuD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 111,
+          "like_count": 1951,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 167
+        },
+        "username": "Xnmurrr_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "這裏沒有你想看的。",
+        "id": "1954524887454011392",
+        "location": "記憶之後",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2040111125476573533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048279968082534400/e7MZDoQF_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 417,
+          "like_count": 2376,
+          "listed_count": 0,
+          "media_count": 227,
+          "tweet_count": 2021
+        },
+        "username": "xiexiefubenXX",
+        "verified": false
+      }
+    ]
+  }
+}

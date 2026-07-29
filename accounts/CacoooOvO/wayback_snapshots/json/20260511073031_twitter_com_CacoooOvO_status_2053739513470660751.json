@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053739504562061312",
+        "3_2053739504582922240",
+        "3_2053739504574578688",
+        "3_2053739504553676800"
+      ]
+    },
+    "author_id": "2042606909086404616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2053739513470660751",
+    "created_at": "2026-05-11T07:30:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T08:30:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053739513470660751"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hggdiOFRJf",
+          "end": 34,
+          "expanded_url": "https://x.com/CacoooOvO/status/2053739513470660751/photo/1",
+          "media_key": "3_2053739504562061312",
+          "start": 11,
+          "url": "https://t.co/hggdiOFRJf"
+        },
+        {
+          "display_url": "pic.x.com/hggdiOFRJf",
+          "end": 34,
+          "expanded_url": "https://x.com/CacoooOvO/status/2053739513470660751/photo/1",
+          "media_key": "3_2053739504582922240",
+          "start": 11,
+          "url": "https://t.co/hggdiOFRJf"
+        },
+        {
+          "display_url": "pic.x.com/hggdiOFRJf",
+          "end": 34,
+          "expanded_url": "https://x.com/CacoooOvO/status/2053739513470660751/photo/1",
+          "media_key": "3_2053739504574578688",
+          "start": 11,
+          "url": "https://t.co/hggdiOFRJf"
+        },
+        {
+          "display_url": "pic.x.com/hggdiOFRJf",
+          "end": 34,
+          "expanded_url": "https://x.com/CacoooOvO/status/2053739513470660751/photo/1",
+          "media_key": "3_2053739504553676800",
+          "start": 11,
+          "url": "https://t.co/hggdiOFRJf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053739513470660751",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近喜欢上了拼贴…🥰 https://t.co/hggdiOFRJf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1706,
+        "media_key": "3_2053739504562061312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIBZMr6bwAA1NgL.jpg",
+        "width": 1279
+      },
+      {
+        "height": 1706,
+        "media_key": "3_2053739504582922240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIBZMr_aEAA-TQ7.jpg",
+        "width": 1279
+      },
+      {
+        "height": 1706,
+        "media_key": "3_2053739504574578688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIBZMr9awAAXGCZ.jpg",
+        "width": 1279
+      },
+      {
+        "height": 1706,
+        "media_key": "3_2053739504553676800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIBZMr4b0AAWn7O.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053739504562061312",
+            "3_2053739504582922240",
+            "3_2053739504574578688",
+            "3_2053739504553676800"
+          ]
+        },
+        "author_id": "2042606909086404616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053739513470660751",
+        "created_at": "2026-05-11T07:30:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T08:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053739513470660751"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hggdiOFRJf",
+              "end": 34,
+              "expanded_url": "https://x.com/CacoooOvO/status/2053739513470660751/photo/1",
+              "media_key": "3_2053739504562061312",
+              "start": 11,
+              "url": "https://t.co/hggdiOFRJf"
+            },
+            {
+              "display_url": "pic.x.com/hggdiOFRJf",
+              "end": 34,
+              "expanded_url": "https://x.com/CacoooOvO/status/2053739513470660751/photo/1",
+              "media_key": "3_2053739504582922240",
+              "start": 11,
+              "url": "https://t.co/hggdiOFRJf"
+            },
+            {
+              "display_url": "pic.x.com/hggdiOFRJf",
+              "end": 34,
+              "expanded_url": "https://x.com/CacoooOvO/status/2053739513470660751/photo/1",
+              "media_key": "3_2053739504574578688",
+              "start": 11,
+              "url": "https://t.co/hggdiOFRJf"
+            },
+            {
+              "display_url": "pic.x.com/hggdiOFRJf",
+              "end": 34,
+              "expanded_url": "https://x.com/CacoooOvO/status/2053739513470660751/photo/1",
+              "media_key": "3_2053739504553676800",
+              "start": 11,
+              "url": "https://t.co/hggdiOFRJf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053739513470660751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近喜欢上了拼贴…🥰 https://t.co/hggdiOFRJf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-10T14:14:51.000Z",
+        "description": "Caco/呓语 友跨\n六月正式回归 期间偶尔发帖证明我还活着…\n简中/繁中/En/日本語\n温良婊，微审回fo、无🚪欢迎来找我玩\n餐券🈹️/o三年/烟草品鉴\n喜欢玩各种音游（邦多利为主）和明日方舟（澄闪厨",
+        "id": "2042606909086404616",
+        "location": "Your heart",
+        "name": "Caco",
+        "pinned_tweet_id": "2047514784875303418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042609084139212801/zXgrc0gB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 728,
+          "like_count": 2487,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 386
+        },
+        "username": "CacoooOvO",
+        "verified": false
+      }
+    ]
+  }
+}

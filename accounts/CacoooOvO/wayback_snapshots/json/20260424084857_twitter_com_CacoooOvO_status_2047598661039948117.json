@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042606909086404616",
+    "conversation_id": "2047598661039948117",
+    "created_at": "2026-04-24T08:48:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T09:48:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047598661039948117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1687683090133778432",
+          "start": 3,
+          "username": "nonsense_778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047598661039948117",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047296443124433323",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nonsense_778: 虽然我感觉自己是异性恋，但是由于从小到大看的黄色制品都是以展现女性为主，女性身体被符号化成一种色情象征后我对黄片中的女性反而更容易产生性唤起。。这个社会一直在培养女同性恋吧我说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042606909086404616",
+        "conversation_id": "2047598661039948117",
+        "created_at": "2026-04-24T08:48:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T09:48:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047598661039948117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1687683090133778432",
+              "start": 3,
+              "username": "nonsense_778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047598661039948117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047296443124433323",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nonsense_778: 虽然我感觉自己是异性恋，但是由于从小到大看的黄色制品都是以展现女性为主，女性身体被符号化成一种色情象征后我对黄片中的女性反而更容易产生性唤起。。这个社会一直在培养女同性恋吧我说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687683090133778432",
+        "conversation_id": "2047296443124433323",
+        "created_at": "2026-04-23T12:48:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T13:48:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047296443124433323"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047296443124433323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 26615,
+          "like_count": 853,
+          "quote_count": 10,
+          "reply_count": 71,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "虽然我感觉自己是异性恋，但是由于从小到大看的黄色制品都是以展现女性为主，女性身体被符号化成一种色情象征后我对黄片中的女性反而更容易产生性唤起。。这个社会一直在培养女同性恋吧我说"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-10T14:14:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "South Heart, North Dakota, United States",
+              "geo": {
+                "coordinates": [
+                  -102.99157,
+                  46.86473
+                ],
+                "type": "Point"
+              },
+              "locality": "South Heart",
+              "region": "North Dakota",
+              "sub_region": "Stark County"
+            }
+          ]
+        },
+        "description": "Caco/呓语\n简中/繁中/En\n温良婊，微审回fo、无🚪欢迎来找我玩\n餐券🈹️/o三年/烟草品鉴\n喜欢玩各种音游（邦多利为主）和明日方舟（澄闪厨",
+        "id": "2042606909086404616",
+        "location": "Your heart",
+        "name": "Camellia",
+        "pinned_tweet_id": "2046822210850230557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042609084139212801/zXgrc0gB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 494,
+          "like_count": 763,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 162
+        },
+        "username": "CacoooOvO",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-05T04:33:43.000Z",
+        "description": "世界第一清纯女大^_^什么都发👅   自用🪜：https://t.co/kxVuKcyEE9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tw03.damoplane1.com/#/register?cod…",
+                "end": 46,
+                "expanded_url": "https://tw03.damoplane1.com/#/register?code=nCPSbLW6",
+                "start": 23,
+                "url": "https://t.co/kxVuKcyEE9"
+              }
+            ]
+          }
+        },
+        "id": "1687683090133778432",
+        "location": "Norway",
+        "name": "floating ice🐾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910967605361336320/A4fpw_S-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29303,
+          "following_count": 94,
+          "like_count": 22094,
+          "listed_count": 72,
+          "media_count": 243,
+          "tweet_count": 4779
+        },
+        "username": "nonsense_778",
+        "verified": true
+      }
+    ]
+  }
+}

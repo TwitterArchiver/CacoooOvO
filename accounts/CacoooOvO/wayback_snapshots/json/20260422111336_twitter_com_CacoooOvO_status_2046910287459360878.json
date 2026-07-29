@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042606909086404616",
+    "conversation_id": "2046910287459360878",
+    "created_at": "2026-04-22T11:13:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T12:13:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046910287459360878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2042888433014837256",
+          "start": 3,
+          "username": "2yjjj0846ooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046910287459360878",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046871213755261402",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @2yjjj0846ooo: 我的爹妈到底什么时候逃离原生家庭？你们有一个黄毛穿孔od划手的孩子真倒鸡巴霉了这辈子都有了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042606909086404616",
+        "conversation_id": "2046910287459360878",
+        "created_at": "2026-04-22T11:13:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T12:13:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046910287459360878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2042888433014837256",
+              "start": 3,
+              "username": "2yjjj0846ooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046910287459360878",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046871213755261402",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @2yjjj0846ooo: 我的爹妈到底什么时候逃离原生家庭？你们有一个黄毛穿孔od划手的孩子真倒鸡巴霉了这辈子都有了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042888433014837256",
+        "conversation_id": "2046871213755261402",
+        "created_at": "2026-04-22T08:38:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T09:38:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046871213755261402"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046871213755261402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我的爹妈到底什么时候逃离原生家庭？你们有一个黄毛穿孔od划手的孩子真倒鸡巴霉了这辈子都有了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-10T14:14:51.000Z",
+        "description": "Caco/呓语 已成年\n温良婊，微审回fo、无🚪欢迎来找我玩\n餐券三年/伪烟草品鉴砖家\n喜欢玩各种音游（邦多利为主）和明日方舟（澄闪厨",
+        "id": "2042606909086404616",
+        "location": "Your heart",
+        "name": "Camellia",
+        "pinned_tweet_id": "2046439284023152963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042609084139212801/zXgrc0gB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 344,
+          "like_count": 517,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 106
+        },
+        "username": "CacoooOvO",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-11T08:53:06.000Z",
+        "description": "08 E/INFP. 🔸 \n擅长用ai进行玄学分析5r一次欢迎私信\n互fo呀^-^｜神人女子下凡｜焦虑回避型我好寂寞呜呜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/2s%E2%80%86n00",
+                "end": 23,
+                "expanded_url": "https://ngl.link/2s%E2%80%86n00",
+                "start": 0,
+                "url": "https://t.co/Q5qDq2nXwT"
+              }
+            ]
+          }
+        },
+        "id": "2042888433014837256",
+        "location": "0.1km",
+        "name": "我只是氏祢",
+        "pinned_tweet_id": "2046298211531571208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042890404060893188/aGAqs8M3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 75,
+          "like_count": 1190,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 288
+        },
+        "url": "https://t.co/Q5qDq2nXwT",
+        "username": "2yjjj0846ooo",
+        "verified": false
+      }
+    ]
+  }
+}

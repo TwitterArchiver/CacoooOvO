@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080888265943797760"
+      ]
+    },
+    "author_id": "2042606909086404616",
+    "conversation_id": "2080888272356884876",
+    "created_at": "2026-07-25T05:29:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T06:29:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080888272356884876"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eipMbNTWLX",
+          "end": 171,
+          "expanded_url": "https://x.com/CacoooOvO/status/2080888272356884876/photo/1",
+          "media_key": "3_2080888265943797760",
+          "start": 148,
+          "url": "https://t.co/eipMbNTWLX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080888272356884876",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "由于号主即将上大学跟家人争取了很久只要到了1000/月的生活费 但是假期里也没给我一分钱让我花 已经有五天没吃过一顿正经饭了 觉得自己在大学只靠这点钱没办法生存下去 所以从现在开始攒钱 如果有好心人可以捐赠我一点我会很开心 我也会自己努力做兼职赚生活费 \n他们不是不愿意花钱 只是不愿花在我身上 https://t.co/eipMbNTWLX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2080888265943797760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HODM2lTb0AA_0KC.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080888265943797760"
+          ]
+        },
+        "author_id": "2042606909086404616",
+        "conversation_id": "2080888272356884876",
+        "created_at": "2026-07-25T05:29:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T06:29:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080888272356884876"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eipMbNTWLX",
+              "end": 171,
+              "expanded_url": "https://x.com/CacoooOvO/status/2080888272356884876/photo/1",
+              "media_key": "3_2080888265943797760",
+              "start": 148,
+              "url": "https://t.co/eipMbNTWLX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080888272356884876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "由于号主即将上大学跟家人争取了很久只要到了1000/月的生活费 但是假期里也没给我一分钱让我花 已经有五天没吃过一顿正经饭了 觉得自己在大学只靠这点钱没办法生存下去 所以从现在开始攒钱 如果有好心人可以捐赠我一点我会很开心 我也会自己努力做兼职赚生活费 \n他们不是不愿意花钱 只是不愿花在我身上 https://t.co/eipMbNTWLX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-10T14:14:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "South Heart, North Dakota, United States",
+              "geo": {
+                "coordinates": [
+                  -102.99157,
+                  46.86473
+                ],
+                "type": "Point"
+              },
+              "locality": "South Heart",
+              "region": "North Dakota",
+              "sub_region": "Stark County"
+            }
+          ]
+        },
+        "description": "Caco/呓语 友跨\n简中/繁中/En/日本語\n温良顺直，微审回fo 无🚪欢迎来找我玩\n不怀好意接近我的人我会b掉\n餐券🈹️/o三年 精神病康复中 热爱品鉴烟草\nbangdream/arknights",
+        "id": "2042606909086404616",
+        "location": "Your heart",
+        "name": "Caco",
+        "pinned_tweet_id": "2047514784875303418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042609084139212801/zXgrc0gB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 831,
+          "like_count": 3387,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 456
+        },
+        "url": "",
+        "username": "CacoooOvO",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042606909086404616",
+    "conversation_id": "2068405422252548393",
+    "created_at": "2026-06-20T18:47:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T19:47:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068405422252548393"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2068405422252548393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "刚回小区的时候给门口保安发了根烟 他神秘的笑着问我抽不抽罂粟说他家有种的😰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042606909086404616",
+        "conversation_id": "2068405422252548393",
+        "created_at": "2026-06-20T18:47:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T19:47:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068405422252548393"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068405422252548393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚回小区的时候给门口保安发了根烟 他神秘的笑着问我抽不抽罂粟说他家有种的😰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-10T14:14:51.000Z",
+        "description": "Caco/呓语 友跨\n六月正式回归 期间偶尔发帖证明我还活着…\n简中/繁中/En/日本語\n温良婊，微审回fo、无🚪欢迎来找我玩\n不怀好意接近我的人我会直接b掉\n餐券🈹️/o三年 戒割中/烟草品鉴\n喜欢玩各种音游（邦多利为主）和明日方舟（澄闪厨",
+        "id": "2042606909086404616",
+        "location": "Your heart",
+        "name": "Caco",
+        "pinned_tweet_id": "2047514784875303418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042609084139212801/zXgrc0gB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 772,
+          "like_count": 2847,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 401
+        },
+        "url": "",
+        "username": "CacoooOvO",
+        "verified": false
+      }
+    ]
+  }
+}

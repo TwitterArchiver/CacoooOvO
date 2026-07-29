@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042606909086404616",
+    "conversation_id": "2051334094785814533",
+    "created_at": "2026-05-04T16:12:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T17:12:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051334094785814533"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YiJin_0v0/stat…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/YiJin_0v0/status/2051232553005461792",
+          "start": 18,
+          "url": "https://t.co/ySjguPHb6B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051334094785814533",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051232553005461792",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我建议都去o那个舍曲林，多o一点😋 https://t.co/ySjguPHb6B"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042606909086404616",
+        "conversation_id": "2051334094785814533",
+        "created_at": "2026-05-04T16:12:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T17:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051334094785814533"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YiJin_0v0/stat…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/YiJin_0v0/status/2051232553005461792",
+              "start": 18,
+              "url": "https://t.co/ySjguPHb6B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051334094785814533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051232553005461792",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我建议都去o那个舍曲林，多o一点😋 https://t.co/ySjguPHb6B"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031715041196875776",
+        "conversation_id": "2051232553005461792",
+        "created_at": "2026-05-04T09:28:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T10:28:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051232553005461792"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051232553005461792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1484,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "嗯，你们知道吗？就是你们欧迪要o什么的话，就看那个拼多多给你推什么吧，就之前都一直给你们推那个什么郁美片和那个普瑞巴林，然后他现在开始给我们推晚安，还有舍曲林了，你们就都去吃这个，好不好？对，这个老好吃了，我告诉你们。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-10T14:14:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "South Heart, North Dakota, United States",
+              "geo": {
+                "coordinates": [
+                  -102.99157,
+                  46.86473
+                ],
+                "type": "Point"
+              },
+              "locality": "South Heart",
+              "region": "North Dakota",
+              "sub_region": "Stark County"
+            }
+          ]
+        },
+        "description": "Caco/呓语 友跨\n六月正式回归 期间偶尔诈尸证明我还活着…\n简中/繁中/En/日本語\n温良婊，微审回fo、无🚪欢迎来找我玩\n餐券🈹️/o三年/烟草品鉴\n喜欢玩各种音游（邦多利为主）和明日方舟（澄闪厨",
+        "id": "2042606909086404616",
+        "location": "Your heart",
+        "name": "Caco",
+        "pinned_tweet_id": "2047514784875303418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042609084139212801/zXgrc0gB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 577,
+          "following_count": 654,
+          "like_count": 1691,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 313
+        },
+        "username": "CacoooOvO",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-11T12:53:23.000Z",
+        "description": "本体：@rinii165892 【私信回fo】\n不发帖就是去享福了\n人类模仿计划/精神病很严重已放弃治疗，一碰就碎/情商低智商低素质低文化低耐心为0/持续犯病中，欢迎互殴/传奇炸柜王/天天被晶的小学生/无证含糖/家暴党",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "rinii165892"
+              }
+            ]
+          }
+        },
+        "id": "2031715041196875776",
+        "location": "少管所",
+        "name": "霖/伊井酱酱酱🍥🔪",
+        "pinned_tweet_id": "2049137147219968346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047345595497738240/v4nAldhV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 716,
+          "following_count": 472,
+          "like_count": 4573,
+          "listed_count": 2,
+          "media_count": 119,
+          "tweet_count": 2662
+        },
+        "username": "YiJin_0v0",
+        "verified": false
+      }
+    ]
+  }
+}

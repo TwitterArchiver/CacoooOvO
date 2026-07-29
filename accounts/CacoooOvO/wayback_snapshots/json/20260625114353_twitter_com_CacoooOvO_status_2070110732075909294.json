@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069648273431056384",
+        "3_2069648273443639296"
+      ],
+      "media_source_tweet_id": [
+        "2069648280741642455",
+        "2069648280741642455"
+      ]
+    },
+    "author_id": "2042606909086404616",
+    "conversation_id": "2070110732075909294",
+    "created_at": "2026-06-25T11:43:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T12:43:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070110732075909294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1285577648861659137",
+          "start": 3,
+          "username": "vanillaCitron"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rfGQNWAt8l",
+          "end": 68,
+          "expanded_url": "https://x.com/vanillaCitron/status/2069648280741642455/photo/1",
+          "media_key": "3_2069648273431056384",
+          "start": 45,
+          "url": "https://t.co/rfGQNWAt8l"
+        },
+        {
+          "display_url": "pic.x.com/rfGQNWAt8l",
+          "end": 68,
+          "expanded_url": "https://x.com/vanillaCitron/status/2069648280741642455/photo/1",
+          "media_key": "3_2069648273443639296",
+          "start": 45,
+          "url": "https://t.co/rfGQNWAt8l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070110732075909294",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069648280741642455",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vanillaCitron: 在无人问津的角落，发现自己上了抖音热搜和少数派文章 https://t.co/rfGQNWAt8l"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1553,
+        "media_key": "3_2069648273431056384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLjeI6Pb0AAl_XU.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1666,
+        "media_key": "3_2069648273443639296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLjeI6Sb0AAM6Xv.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069648273431056384",
+            "3_2069648273443639296"
+          ],
+          "media_source_tweet_id": [
+            "2069648280741642455",
+            "2069648280741642455"
+          ]
+        },
+        "author_id": "2042606909086404616",
+        "conversation_id": "2070110732075909294",
+        "created_at": "2026-06-25T11:43:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T12:43:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070110732075909294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1285577648861659137",
+              "start": 3,
+              "username": "vanillaCitron"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rfGQNWAt8l",
+              "end": 68,
+              "expanded_url": "https://x.com/vanillaCitron/status/2069648280741642455/photo/1",
+              "media_key": "3_2069648273431056384",
+              "start": 45,
+              "url": "https://t.co/rfGQNWAt8l"
+            },
+            {
+              "display_url": "pic.x.com/rfGQNWAt8l",
+              "end": 68,
+              "expanded_url": "https://x.com/vanillaCitron/status/2069648280741642455/photo/1",
+              "media_key": "3_2069648273443639296",
+              "start": 45,
+              "url": "https://t.co/rfGQNWAt8l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070110732075909294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069648280741642455",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vanillaCitron: 在无人问津的角落，发现自己上了抖音热搜和少数派文章 https://t.co/rfGQNWAt8l"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069648273431056384",
+            "3_2069648273443639296"
+          ]
+        },
+        "author_id": "1285577648861659137",
+        "conversation_id": "2069648280741642455",
+        "created_at": "2026-06-24T05:06:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T06:06:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069648280741642455"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rfGQNWAt8l",
+              "end": 49,
+              "expanded_url": "https://x.com/vanillaCitron/status/2069648280741642455/photo/1",
+              "media_key": "3_2069648273431056384",
+              "start": 26,
+              "url": "https://t.co/rfGQNWAt8l"
+            },
+            {
+              "display_url": "pic.x.com/rfGQNWAt8l",
+              "end": 49,
+              "expanded_url": "https://x.com/vanillaCitron/status/2069648280741642455/photo/1",
+              "media_key": "3_2069648273443639296",
+              "start": 26,
+              "url": "https://t.co/rfGQNWAt8l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069648280741642455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 204,
+          "impression_count": 263055,
+          "like_count": 1862,
+          "quote_count": 11,
+          "reply_count": 377,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "在无人问津的角落，发现自己上了抖音热搜和少数派文章 https://t.co/rfGQNWAt8l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-10T14:14:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "South Heart, North Dakota, United States",
+              "geo": {
+                "coordinates": [
+                  -102.99157,
+                  46.86473
+                ],
+                "type": "Point"
+              },
+              "locality": "South Heart",
+              "region": "North Dakota",
+              "sub_region": "Stark County"
+            }
+          ]
+        },
+        "description": "Caco/呓语 友跨\n简中/繁中/En/日本語\n温良婊，微审回fo、无🚪欢迎来找我玩\n不怀好意接近我的人我会直接b掉\n餐券🈹️/o三年 精神病康复中 热爱品鉴烟草\nbangdream/arknights",
+        "id": "2042606909086404616",
+        "location": "Your heart",
+        "name": "Caco",
+        "pinned_tweet_id": "2047514784875303418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042609084139212801/zXgrc0gB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 775,
+          "like_count": 2913,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 403
+        },
+        "url": "",
+        "username": "CacoooOvO",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-21T14:10:31.000Z",
+        "description": "🏳️‍🌈 / 🌠 ex. Tencent design designer /  SSC 26 Winner / iOS developer, made @PieceletNeoDB",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "PieceletNeoDB"
+              }
+            ]
+          }
+        },
+        "id": "1285577648861659137",
+        "location": "出逃要趕早 | 🐘 @lcandy@m.cmx.im",
+        "name": "citron🍢🍋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1686744469415104512/OFA-6nhA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4194,
+          "following_count": 1128,
+          "like_count": 19680,
+          "listed_count": 19,
+          "media_count": 946,
+          "tweet_count": 7058
+        },
+        "url": "",
+        "username": "vanillaCitron",
+        "verified": false
+      }
+    ]
+  }
+}

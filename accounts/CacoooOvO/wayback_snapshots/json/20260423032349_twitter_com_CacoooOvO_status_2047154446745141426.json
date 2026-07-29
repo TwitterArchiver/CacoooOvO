@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042606909086404616",
+    "conversation_id": "2047154446745141426",
+    "created_at": "2026-04-23T03:23:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T04:23:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047154446745141426"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/infinitetritiu…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/infinitetritium/status/2047152828498722823",
+          "start": 2,
+          "url": "https://t.co/dCcA4Dsoo9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047154446745141426",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047152828498722823",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😭 https://t.co/dCcA4Dsoo9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042606909086404616",
+        "conversation_id": "2047154446745141426",
+        "created_at": "2026-04-23T03:23:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T04:23:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047154446745141426"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/infinitetritiu…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/infinitetritium/status/2047152828498722823",
+              "start": 2,
+              "url": "https://t.co/dCcA4Dsoo9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047154446745141426",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047152828498722823",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😭 https://t.co/dCcA4Dsoo9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1619698674917068801",
+        "conversation_id": "2047115352279240747",
+        "created_at": "2026-04-23T03:17:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T04:17:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047152828498722823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2042606909086404616",
+              "start": 0,
+              "username": "CacoooOvO"
+            },
+            {
+              "end": 20,
+              "id": "1554803647909097472",
+              "start": 11,
+              "username": "Wilf_Lin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047152828498722823",
+        "in_reply_to_user_id": "2042606909086404616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047115352279240747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CacoooOvO @Wilf_Lin 26年还是有说法 虽然网上四处开花但是真正在这个圈子里的人其实很少 绕来绕去最后还是那么几个人 太多人离开了 不知多少年后 又不知还会剩下谁 会聚在一起吗 回忆着那些先行离开的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-10T14:14:51.000Z",
+        "description": "Caco/呓语 已成年\n温良婊，微审回fo、无🚪欢迎来找我玩\n餐券三年/伪烟草品鉴砖家\n喜欢玩各种音游（邦多利为主）和明日方舟（澄闪厨",
+        "id": "2042606909086404616",
+        "location": "Your heart",
+        "name": "Camellia",
+        "pinned_tweet_id": "2046439284023152963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042609084139212801/zXgrc0gB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 438,
+          "like_count": 634,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 135
+        },
+        "username": "CacoooOvO",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-29T14:08:10.000Z",
+        "description": "UnrealEngine地编师（学 接 私）｜艺术｜形而上｜理想国｜棱镜｜身外的世界总是模糊的…\n我想休息一下 在一个只有我的世界里。",
+        "id": "1619698674917068801",
+        "location": "NewMap",
+        "name": "mono氚",
+        "pinned_tweet_id": "1985005921110806672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916186524884078594/dGmyKGAr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 155,
+          "like_count": 580,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 459
+        },
+        "username": "InfiniteTritium",
+        "verified": false
+      }
+    ]
+  }
+}

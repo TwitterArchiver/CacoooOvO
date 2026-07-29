@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042606909086404616",
+    "conversation_id": "2052592601719886318",
+    "created_at": "2026-05-08T03:33:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T04:33:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052592601719886318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2803477274",
+          "start": 3,
+          "username": "bozu_108"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052592601719886318",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 413
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052323805343916380",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bozu_108: ゲシュタルト崩壊を分かりやすく説明する\n\n金賞\n猫マナー猫マナー猫マナー\n 猫マナー猫マナー猫マナー\n猫マナー猫マナー猫マナー\n\nーナマ猫ーナマ猫ーナマ猫\n ーナマ猫ーナマ猫ーナマ猫\n  ーナマ猫ーナマ猫ーナマ猫\n\n  猫マナー猫マナー猫マナー\n 猫…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042606909086404616",
+        "conversation_id": "2052592601719886318",
+        "created_at": "2026-05-08T03:33:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T04:33:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052592601719886318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2803477274",
+              "start": 3,
+              "username": "bozu_108"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052592601719886318",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 413
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052323805343916380",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bozu_108: ゲシュタルト崩壊を分かりやすく説明する\n\n金賞\n猫マナー猫マナー猫マナー\n 猫マナー猫マナー猫マナー\n猫マナー猫マナー猫マナー\n\nーナマ猫ーナマ猫ーナマ猫\n ーナマ猫ーナマ猫ーナマ猫\n  ーナマ猫ーナマ猫ーナマ猫\n\n  猫マナー猫マナー猫マナー\n 猫…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2803477274",
+        "conversation_id": "2052323805343916380",
+        "created_at": "2026-05-07T09:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T10:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052323805343916380"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052323805343916380",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 854,
+          "impression_count": 1076627,
+          "like_count": 8338,
+          "quote_count": 129,
+          "reply_count": 78,
+          "retweet_count": 413
+        },
+        "reply_settings": "everyone",
+        "text": "ゲシュタルト崩壊を分かりやすく説明する\n\n金賞\n猫マナー猫マナー猫マナー\n 猫マナー猫マナー猫マナー\n猫マナー猫マナー猫マナー\n\nーナマ猫ーナマ猫ーナマ猫\n ーナマ猫ーナマ猫ーナマ猫\n  ーナマ猫ーナマ猫ーナマ猫\n\n  猫マナー猫マナー猫マナー\n 猫マナー猫マナー猫マナー\n猫マナー猫マナー猫マナー"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-10T14:14:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "South Heart, North Dakota, United States",
+              "geo": {
+                "coordinates": [
+                  -102.99157,
+                  46.86473
+                ],
+                "type": "Point"
+              },
+              "locality": "South Heart",
+              "region": "North Dakota",
+              "sub_region": "Stark County"
+            }
+          ]
+        },
+        "description": "Caco/呓语 友跨\n六月正式回归 期间偶尔发帖证明我还活着…\n简中/繁中/En/日本語\n温良婊，微审回fo、无🚪欢迎来找我玩\n餐券🈹️/o三年/烟草品鉴\n喜欢玩各种音游（邦多利为主）和明日方舟（澄闪厨",
+        "id": "2042606909086404616",
+        "location": "Your heart",
+        "name": "Caco",
+        "pinned_tweet_id": "2047514784875303418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042609084139212801/zXgrc0gB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 587,
+          "following_count": 685,
+          "like_count": 2189,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 363
+        },
+        "username": "CacoooOvO",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-11T10:41:30.000Z",
+        "description": "ポケモンGOのやり過ぎで坊主バークビになりました。新宿に虚無僧バー 、お茶の水に『東大生しか入れないBAR』スジャータ作りました。1日店長募集中！希望の方はDMかhidarihidari2000@yahoo.co.jp迄。バー垢@bozu810虚無僧バー新宿1-13-8葵ビル地下右。https://t.co/eC2mdbGhPO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 114,
+                "username": "bozu810"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bozu108.com",
+                "end": 165,
+                "expanded_url": "http://bozu108.com",
+                "start": 142,
+                "url": "https://t.co/eC2mdbGhPO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "calendar.google.com/calendar/u/0/e…",
+                "end": 23,
+                "expanded_url": "https://calendar.google.com/calendar/u/0/embed?src=komusoubar@gmail.com&ctz=Asia/Tokyo",
+                "start": 0,
+                "url": "https://t.co/PfN7cK9TGS"
+              }
+            ]
+          }
+        },
+        "id": "2803477274",
+        "location": "東大BAR千代田区神田小川町3-26-24新小川町。📅↓",
+        "name": "坊主",
+        "pinned_tweet_id": "2047661848405680626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/909064014038048768/dIHvdz6j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2090081,
+          "following_count": 44464,
+          "like_count": 254681,
+          "listed_count": 3753,
+          "media_count": 22505,
+          "tweet_count": 64396
+        },
+        "url": "https://t.co/PfN7cK9TGS",
+        "username": "bozu_108",
+        "verified": true
+      }
+    ]
+  }
+}

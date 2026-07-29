@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2052405812455411712"
+      ],
+      "media_source_tweet_id": [
+        "2052405887634190352"
+      ]
+    },
+    "author_id": "2042606909086404616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2052532568202072366",
+    "created_at": "2026-05-07T23:34:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T00:34:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052532568202072366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "745884138",
+          "start": 3,
+          "username": "BestOfMeow"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xXdoPhyAvB",
+          "end": 39,
+          "expanded_url": "https://x.com/BestOfMeow/status/2052405887634190352/video/1",
+          "media_key": "13_2052405812455411712",
+          "start": 16,
+          "url": "https://t.co/xXdoPhyAvB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052532568202072366",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052405887634190352",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BestOfMeow: https://t.co/xXdoPhyAvB"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20866,
+        "height": 720,
+        "media_key": "13_2052405812455411712",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2052405812455411712/img/OPxIWumFLIpZamA4.jpg",
+        "public_metrics": {
+          "view_count": 1370
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052405812455411712/vid/avc1/320x320/SR8PoQiAgXG1FWL4.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052405812455411712/vid/avc1/540x540/tIGN9nG8OkfeE04e.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052405812455411712/vid/avc1/720x720/BZe0bR1yZsZkK0yM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2052405812455411712/pl/AePhj_StDaoKpLnO.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2052405812455411712"
+          ],
+          "media_source_tweet_id": [
+            "2052405887634190352"
+          ]
+        },
+        "author_id": "2042606909086404616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2052532568202072366",
+        "created_at": "2026-05-07T23:34:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T00:34:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052532568202072366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "745884138",
+              "start": 3,
+              "username": "BestOfMeow"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xXdoPhyAvB",
+              "end": 39,
+              "expanded_url": "https://x.com/BestOfMeow/status/2052405887634190352/video/1",
+              "media_key": "13_2052405812455411712",
+              "start": 16,
+              "url": "https://t.co/xXdoPhyAvB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052532568202072366",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052405887634190352",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BestOfMeow: https://t.co/xXdoPhyAvB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2052405812455411712"
+          ]
+        },
+        "author_id": "745884138",
+        "conversation_id": "2052405887634190352",
+        "created_at": "2026-05-07T15:11:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T16:11:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052405887634190352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xXdoPhyAvB",
+              "end": 23,
+              "expanded_url": "https://x.com/BestOfMeow/status/2052405887634190352/video/1",
+              "media_key": "13_2052405812455411712",
+              "start": 0,
+              "url": "https://t.co/xXdoPhyAvB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052405887634190352",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3887,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/xXdoPhyAvB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-10T14:14:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "South Heart, North Dakota, United States",
+              "geo": {
+                "coordinates": [
+                  -102.99157,
+                  46.86473
+                ],
+                "type": "Point"
+              },
+              "locality": "South Heart",
+              "region": "North Dakota",
+              "sub_region": "Stark County"
+            }
+          ]
+        },
+        "description": "Caco/呓语 友跨\n六月正式回归 期间偶尔发帖证明我还活着…\n简中/繁中/En/日本語\n温良婊，微审回fo、无🚪欢迎来找我玩\n餐券🈹️/o三年/烟草品鉴\n喜欢玩各种音游（邦多利为主）和明日方舟（澄闪厨",
+        "id": "2042606909086404616",
+        "location": "Your heart",
+        "name": "Caco",
+        "pinned_tweet_id": "2047514784875303418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042609084139212801/zXgrc0gB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 675,
+          "like_count": 2122,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 357
+        },
+        "username": "CacoooOvO",
+        "verified": false
+      },
+      {
+        "created_at": "2012-08-08T20:29:02.000Z",
+        "description": "it's about cats 😼",
+        "id": "745884138",
+        "name": "meow",
+        "pinned_tweet_id": "2051928499246805319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001680757648166917/dmowqKVH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544818,
+          "following_count": 13,
+          "like_count": 659,
+          "listed_count": 1218,
+          "media_count": 16832,
+          "tweet_count": 17434
+        },
+        "username": "BestOfMeow",
+        "verified": false
+      }
+    ]
+  }
+}

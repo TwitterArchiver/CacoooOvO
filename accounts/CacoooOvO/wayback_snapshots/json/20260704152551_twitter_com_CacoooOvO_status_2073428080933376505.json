@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042606909086404616",
+    "conversation_id": "2073170521190170912",
+    "created_at": "2026-07-04T15:25:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T16:25:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073428080933376505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1948129325422727168",
+          "start": 0,
+          "username": "Dingbat2602"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073428080933376505",
+    "in_reply_to_user_id": "1948129325422727168",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073339518866853946",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dingbat2602 omg……I'm so sad for your deceased wife😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042606909086404616",
+        "conversation_id": "2073170521190170912",
+        "created_at": "2026-07-04T15:25:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T16:25:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073428080933376505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1948129325422727168",
+              "start": 0,
+              "username": "Dingbat2602"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073428080933376505",
+        "in_reply_to_user_id": "1948129325422727168",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073339518866853946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dingbat2602 omg……I'm so sad for your deceased wife😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948129325422727168",
+        "conversation_id": "2073170521190170912",
+        "created_at": "2026-07-04T09:33:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T10:33:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073339518866853946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2042606909086404616",
+              "start": 0,
+              "username": "CacoooOvO"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "2d8b55ed7afbee5f"
+        },
+        "id": "2073339518866853946",
+        "in_reply_to_user_id": "2042606909086404616",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 223,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073170521190170912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CacoooOvO 5000 mg of gabapentin. Holy crap. Neuropathic pain has got to be the worst. My late wife was tried on that by the doctor but she kept puking it up. So finally the doctor put her on morphine &amp; then on fentanyl (about a hundred times stronger maybe). Colin"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-10T14:14:51.000Z",
+        "description": "Caco/呓语 友跨\n简中/繁中/En/日本語\n温良顺直，微审回fo 无🚪欢迎来找我玩\n不怀好意接近我的人我会b掉\n餐券🈹️/o三年 精神病康复中 热爱品鉴烟草\nbangdream/arknights",
+        "id": "2042606909086404616",
+        "location": "Your heart",
+        "name": "Caco",
+        "pinned_tweet_id": "2047514784875303418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042609084139212801/zXgrc0gB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 720,
+          "following_count": 830,
+          "like_count": 3195,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 443
+        },
+        "url": "",
+        "username": "CacoooOvO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-23T21:17:33.000Z",
+        "description": "Retired principal research scientist in drug discovery for Eli Lilly & Co. UK. Music lover: old prog, hard rock & metal. Now it's more mellow vibes",
+        "id": "1948129325422727168",
+        "location": "Guildford, England",
+        "name": "Colin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988824999033987072/kh4ejtMH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1513,
+          "following_count": 1540,
+          "like_count": 68574,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 32108
+        },
+        "url": "",
+        "username": "Dingbat2602",
+        "verified": false
+      }
+    ]
+  }
+}

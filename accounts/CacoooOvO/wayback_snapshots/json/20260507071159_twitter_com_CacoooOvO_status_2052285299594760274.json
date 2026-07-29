@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042606909086404616",
+    "conversation_id": "2052285299594760274",
+    "created_at": "2026-05-07T07:11:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T08:11:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052285299594760274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1756909109788753920",
+          "start": 3,
+          "username": "__fanqie__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052285299594760274",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 53
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051856513048965349",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @__fanqie__: 提醒一下，本周日是母亲节，别忘了给自己的妈妈说一声母亲节快乐，是生你养你的那个，不是山吹沙绫，也不是今井莉莎，也不是奥泽美咲，也不是上原绯玛丽，也不是大和麻弥，也不是和奏瑞依，也不是八潮琉唯，也不是长崎素世，也不是樱井桃华，也不是橘爱丽丝，也不是…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042606909086404616",
+        "conversation_id": "2052285299594760274",
+        "created_at": "2026-05-07T07:11:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T08:11:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052285299594760274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1756909109788753920",
+              "start": 3,
+              "username": "__fanqie__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052285299594760274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 53
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051856513048965349",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @__fanqie__: 提醒一下，本周日是母亲节，别忘了给自己的妈妈说一声母亲节快乐，是生你养你的那个，不是山吹沙绫，也不是今井莉莎，也不是奥泽美咲，也不是上原绯玛丽，也不是大和麻弥，也不是和奏瑞依，也不是八潮琉唯，也不是长崎素世，也不是樱井桃华，也不是橘爱丽丝，也不是…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756909109788753920",
+        "conversation_id": "2051856513048965349",
+        "created_at": "2026-05-06T02:48:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T03:48:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051856513048965349"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051856513048965349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "提醒一下，本周日是母亲节，别忘了给自己的妈妈说一声母亲节快乐，是生你养你的那个，不是山吹沙绫，也不是今井莉莎，也不是奥泽美咲，也不是上原绯玛丽，也不是大和麻弥，也不是和奏瑞依，也不是八潮琉唯，也不是长崎素世，也不是樱井桃华，也不是橘爱丽丝，也不是森亚露露卡，更不是打瓦认识的那个，更不是穿高跟鞋踩你的那个"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 74,
+          "impression_count": 59799,
+          "like_count": 939,
+          "quote_count": 8,
+          "reply_count": 227,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "提醒一下，本周日是母亲节，别忘了给自己的妈妈说一声母亲节快乐，是生你养你的那个，不是山吹沙绫，也不是今井莉莎，也不是奥泽美咲，也不是上原绯玛丽，也不是大和麻弥，也不是和奏瑞依，也不是八潮琉唯，也不是长崎素世，也不是樱井桃华，也不是橘爱丽丝，也不是森亚露露卡，更不是打瓦认识的那个，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-10T14:14:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "South Heart, North Dakota, United States",
+              "geo": {
+                "coordinates": [
+                  -102.99157,
+                  46.86473
+                ],
+                "type": "Point"
+              },
+              "locality": "South Heart",
+              "region": "North Dakota",
+              "sub_region": "Stark County"
+            }
+          ]
+        },
+        "description": "Caco/呓语 友跨\n六月正式回归 期间偶尔发帖证明我还活着…\n简中/繁中/En/日本語\n温良婊，微审回fo、无🚪欢迎来找我玩\n餐券🈹️/o三年/烟草品鉴\n喜欢玩各种音游（邦多利为主）和明日方舟（澄闪厨",
+        "id": "2042606909086404616",
+        "location": "Your heart",
+        "name": "Caco",
+        "pinned_tweet_id": "2047514784875303418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042609084139212801/zXgrc0gB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 581,
+          "following_count": 663,
+          "like_count": 2018,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 339
+        },
+        "url": "",
+        "username": "CacoooOvO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "这里是番茄🍅\n随机性评论，都懂一点\n不讨论政治/发梗图为主/侵权私信删除\n评论区约炮广告均为诈骗，请勿相信",
+        "id": "1756909109788753920",
+        "location": "番茄树上",
+        "name": "不包番茄籽的番茄",
+        "pinned_tweet_id": "2049387713699381754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043538335155859456/EL2nafA__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6415,
+          "following_count": 2969,
+          "like_count": 1531,
+          "listed_count": 12,
+          "media_count": 1179,
+          "tweet_count": 9200
+        },
+        "url": "",
+        "username": "__fanqie__",
+        "verified": true
+      }
+    ]
+  }
+}

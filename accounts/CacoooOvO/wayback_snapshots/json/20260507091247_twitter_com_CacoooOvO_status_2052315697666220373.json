@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051653376736436225"
+      ],
+      "media_source_tweet_id": [
+        "2051653382432280599"
+      ]
+    },
+    "author_id": "2042606909086404616",
+    "conversation_id": "2052315697666220373",
+    "created_at": "2026-05-07T09:12:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T10:12:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052315697666220373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "911726848324669440",
+          "start": 3,
+          "username": "basicallyabush"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/McELpHOZEU",
+          "end": 52,
+          "expanded_url": "https://x.com/basicallyabush/status/2051653382432280599/photo/1",
+          "media_key": "3_2051653376736436225",
+          "start": 29,
+          "url": "https://t.co/McELpHOZEU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052315697666220373",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4129
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051653382432280599",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @basicallyabush: /ᐠ≽•𐃷•≼マ https://t.co/McELpHOZEU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2051653376736436225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHjv4EKbIAE_WV1.jpg",
+        "width": 1458
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051653376736436225"
+          ],
+          "media_source_tweet_id": [
+            "2051653382432280599"
+          ]
+        },
+        "author_id": "2042606909086404616",
+        "conversation_id": "2052315697666220373",
+        "created_at": "2026-05-07T09:12:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T10:12:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052315697666220373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "911726848324669440",
+              "start": 3,
+              "username": "basicallyabush"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/McELpHOZEU",
+              "end": 52,
+              "expanded_url": "https://x.com/basicallyabush/status/2051653382432280599/photo/1",
+              "media_key": "3_2051653376736436225",
+              "start": 29,
+              "url": "https://t.co/McELpHOZEU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052315697666220373",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4129
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051653382432280599",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @basicallyabush: /ᐠ≽•𐃷•≼マ https://t.co/McELpHOZEU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051653376736436225"
+          ]
+        },
+        "author_id": "911726848324669440",
+        "conversation_id": "2051653382432280599",
+        "created_at": "2026-05-05T13:20:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T14:20:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051653382432280599"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/McELpHOZEU",
+              "end": 32,
+              "expanded_url": "https://x.com/basicallyabush/status/2051653382432280599/photo/1",
+              "media_key": "3_2051653376736436225",
+              "start": 9,
+              "url": "https://t.co/McELpHOZEU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051653382432280599",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 896,
+          "impression_count": 403687,
+          "like_count": 19654,
+          "quote_count": 267,
+          "reply_count": 48,
+          "retweet_count": 4129
+        },
+        "reply_settings": "everyone",
+        "text": "/ᐠ≽•𐃷•≼マ https://t.co/McELpHOZEU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-10T14:14:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "South Heart, North Dakota, United States",
+              "geo": {
+                "coordinates": [
+                  -102.99157,
+                  46.86473
+                ],
+                "type": "Point"
+              },
+              "locality": "South Heart",
+              "region": "North Dakota",
+              "sub_region": "Stark County"
+            }
+          ]
+        },
+        "description": "Caco/呓语 友跨\n六月正式回归 期间偶尔发帖证明我还活着…\n简中/繁中/En/日本語\n温良婊，微审回fo、无🚪欢迎来找我玩\n餐券🈹️/o三年/烟草品鉴\n喜欢玩各种音游（邦多利为主）和明日方舟（澄闪厨",
+        "id": "2042606909086404616",
+        "location": "Your heart",
+        "name": "Caco",
+        "pinned_tweet_id": "2047514784875303418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042609084139212801/zXgrc0gB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 666,
+          "like_count": 2047,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 340
+        },
+        "username": "CacoooOvO",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-23T22:59:54.000Z",
+        "description": "Idiot on the Internet.",
+        "id": "911726848324669440",
+        "name": "bush ⊹",
+        "pinned_tweet_id": "2024580869357523188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044002108555571205/SEv6HYct_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1348,
+          "following_count": 777,
+          "like_count": 82686,
+          "listed_count": 6,
+          "media_count": 4607,
+          "tweet_count": 28186
+        },
+        "username": "basicallyabush",
+        "verified": true
+      }
+    ]
+  }
+}

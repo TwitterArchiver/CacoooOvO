@@ -1,0 +1,112 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042606909086404616",
+    "conversation_id": "2046983523723325574",
+    "created_at": "2026-04-22T16:04:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T17:04:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046983523723325574"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2046983523723325574",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "6mg右佐匹克隆 睡个好觉\n不敢想明早起来嘴里会有多苦…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042606909086404616",
+        "conversation_id": "2046983523723325574",
+        "created_at": "2026-04-22T16:04:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T17:04:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046983523723325574"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046983523723325574",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "6mg右佐匹克隆 睡个好觉\n不敢想明早起来嘴里会有多苦…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-10T14:14:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "South Heart, North Dakota, United States",
+              "geo": {
+                "coordinates": [
+                  -102.99157,
+                  46.86473
+                ],
+                "type": "Point"
+              },
+              "locality": "South Heart",
+              "region": "North Dakota",
+              "sub_region": "Stark County"
+            }
+          ]
+        },
+        "description": "Caco/呓语 已成年\n温良婊，微审回fo、无🚪欢迎来找我玩\n餐券三年/伪烟草品鉴砖家\n喜欢玩各种音游（邦多利为主）和明日方舟（澄闪厨",
+        "id": "2042606909086404616",
+        "location": "Your heart",
+        "name": "Camellia",
+        "pinned_tweet_id": "2046439284023152963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042609084139212801/zXgrc0gB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 416,
+          "like_count": 587,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 123
+        },
+        "username": "CacoooOvO",
+        "verified": false
+      }
+    ]
+  }
+}

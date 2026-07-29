@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042606909086404616",
+    "conversation_id": "2073248792258961895",
+    "created_at": "2026-07-04T03:33:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T04:33:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073248792258961895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1652200117494231043",
+          "start": 3,
+          "username": "OuO_QwQg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073248792258961895",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072741454888444391",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OuO_QwQg: 圈子里说的鸡哥是谁呀，我一直以为是蔡徐坤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042606909086404616",
+        "conversation_id": "2073248792258961895",
+        "created_at": "2026-07-04T03:33:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T04:33:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073248792258961895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1652200117494231043",
+              "start": 3,
+              "username": "OuO_QwQg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073248792258961895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072741454888444391",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OuO_QwQg: 圈子里说的鸡哥是谁呀，我一直以为是蔡徐坤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1652200117494231043",
+        "conversation_id": "2072741454888444391",
+        "created_at": "2026-07-02T17:57:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T18:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072741454888444391"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072741454888444391",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 27826,
+          "like_count": 88,
+          "quote_count": 2,
+          "reply_count": 32,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "圈子里说的鸡哥是谁呀，我一直以为是蔡徐坤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-10T14:14:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "South Heart, North Dakota, United States",
+              "geo": {
+                "coordinates": [
+                  -102.99157,
+                  46.86473
+                ],
+                "type": "Point"
+              },
+              "locality": "South Heart",
+              "region": "North Dakota",
+              "sub_region": "Stark County"
+            }
+          ]
+        },
+        "description": "Caco/呓语 友跨\n简中/繁中/En/日本語\n温良顺直，微审回fo 无🚪欢迎来找我玩\n不怀好意接近我的人我会b掉\n餐券🈹️/o三年 精神病康复中 热爱品鉴烟草\nbangdream/arknights",
+        "id": "2042606909086404616",
+        "location": "Your heart",
+        "name": "Caco",
+        "pinned_tweet_id": "2047514784875303418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042609084139212801/zXgrc0gB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 823,
+          "like_count": 3157,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 430
+        },
+        "url": "",
+        "username": "CacoooOvO",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-29T06:36:35.000Z",
+        "description": "sub｜宝宝｜对所有人友好🩷｜互fo请私信｜看成分互fo｜发点我想发的碎碎念⁺ꪒ⑅ꪒ ˖ 🐾｜如果能给你提供情绪价值那就太好啦｜妹宝@maoxianACT\n🤍29🥕千G包年vpn➡️ https://t.co/dtKlfkDAU1🤍\nᕀ𓂋᜔˖匿名箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 115,
+                "expanded_url": "https://www.tz86.vip/#/register?code=oHQH9EYA",
+                "start": 92,
+                "url": "https://t.co/dtKlfkDAU1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/quq_qwqg",
+                "end": 23,
+                "expanded_url": "https://ngl.link/quq_qwqg",
+                "start": 0,
+                "url": "https://t.co/TsKHcf6fRX"
+              }
+            ]
+          }
+        },
+        "id": "1652200117494231043",
+        "location": "🛏️",
+        "name": "银",
+        "pinned_tweet_id": "2066153555661381976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027768091149840384/B-OhTElb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1693,
+          "following_count": 68,
+          "like_count": 12170,
+          "listed_count": 4,
+          "media_count": 408,
+          "tweet_count": 5013
+        },
+        "url": "https://t.co/TsKHcf6fRX",
+        "username": "OuO_QwQg",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042606909086404616",
+    "conversation_id": "2073170521190170912",
+    "created_at": "2026-07-03T22:23:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T23:23:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073170851009384618"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2073170851009384618",
+    "in_reply_to_user_id": "2042606909086404616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073170521190170912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我好困啊。3mg右佐都治不好我了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14401,
+        "height": 1280,
+        "media_key": "13_2073170454286925824",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2073170454286925824/img/2J0l-2wGmmdNDx_E.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073170454286925824/vid/avc1/320x568/wg1UhEPz922dMX6C.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073170454286925824/vid/avc1/480x852/sfZ0okiV1AuXTfQ-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073170454286925824/vid/avc1/720x1280/Zg8_J3k7ioxkoS_h.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2073170454286925824/pl/_e6dCVmL0k7Zsygg.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042606909086404616",
+        "conversation_id": "2073170521190170912",
+        "created_at": "2026-07-03T22:23:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T23:23:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073170851009384618"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073170851009384618",
+        "in_reply_to_user_id": "2042606909086404616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073170521190170912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我好困啊。3mg右佐都治不好我了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073170454286925824"
+          ]
+        },
+        "author_id": "2042606909086404616",
+        "conversation_id": "2073170521190170912",
+        "created_at": "2026-07-03T22:22:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T23:22:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073170521190170912"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NW9bA6ufkv",
+              "end": 56,
+              "expanded_url": "https://x.com/CacoooOvO/status/2073170521190170912/video/1",
+              "media_key": "13_2073170454286925824",
+              "start": 33,
+              "url": "https://t.co/NW9bA6ufkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073170521190170912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个被幻听折磨了一晚上通宵o了5000mg加巴的女孩子在楼顶抽烟 https://t.co/NW9bA6ufkv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-10T14:14:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "South Heart, North Dakota, United States",
+              "geo": {
+                "coordinates": [
+                  -102.99157,
+                  46.86473
+                ],
+                "type": "Point"
+              },
+              "locality": "South Heart",
+              "region": "North Dakota",
+              "sub_region": "Stark County"
+            }
+          ]
+        },
+        "description": "Caco/呓语 友跨\n简中/繁中/En/日本語\n温良婊，微审回fo、无🚪欢迎来找我玩\n不怀好意接近我的人我会直接b掉\n餐券🈹️/o三年 精神病康复中 热爱品鉴烟草\nbangdream/arknights",
+        "id": "2042606909086404616",
+        "location": "Your heart",
+        "name": "Caco",
+        "pinned_tweet_id": "2047514784875303418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042609084139212801/zXgrc0gB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 611,
+          "following_count": 799,
+          "like_count": 3149,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 424
+        },
+        "url": "",
+        "username": "CacoooOvO",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042606909086404616",
+    "conversation_id": "2046782154382983299",
+    "created_at": "2026-04-22T02:44:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T03:44:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046782154382983299"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cacoooovo/stat…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/cacoooovo/status/2046768881352761801",
+          "start": 22,
+          "url": "https://t.co/0mdg9GKXh1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046782154382983299",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046768881352761801",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谁理我一下…？你们想要💰还是🚬还是💊还是🔪 https://t.co/0mdg9GKXh1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042606909086404616",
+        "conversation_id": "2046782154382983299",
+        "created_at": "2026-04-22T02:44:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T03:44:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046782154382983299"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cacoooovo/stat…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/cacoooovo/status/2046768881352761801",
+              "start": 22,
+              "url": "https://t.co/0mdg9GKXh1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046782154382983299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046768881352761801",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁理我一下…？你们想要💰还是🚬还是💊还是🔪 https://t.co/0mdg9GKXh1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042606909086404616",
+        "conversation_id": "2046768881352761801",
+        "created_at": "2026-04-22T01:51:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T02:51:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046768881352761801"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046768881352761801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "马上要150fo了要不要搞一个抽奖呢…？谁来给我提供一点奖品思路"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-10T14:14:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "South Heart, North Dakota, United States",
+              "geo": {
+                "coordinates": [
+                  -102.99157,
+                  46.86473
+                ],
+                "type": "Point"
+              },
+              "locality": "South Heart",
+              "region": "North Dakota",
+              "sub_region": "Stark County"
+            }
+          ]
+        },
+        "description": "Caco/呓语 已成年\n温良婊，fo我都会回 无🚪欢迎来找我玩呀\n餐券三年/伪烟草品鉴砖家\n喜欢玩各种音游（邦多利为主）和明日方舟（澄闪厨",
+        "id": "2042606909086404616",
+        "location": "Your heart",
+        "name": "Camellia",
+        "pinned_tweet_id": "2046439284023152963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042609084139212801/zXgrc0gB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 280,
+          "like_count": 441,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 78
+        },
+        "username": "CacoooOvO",
+        "verified": false
+      }
+    ]
+  }
+}

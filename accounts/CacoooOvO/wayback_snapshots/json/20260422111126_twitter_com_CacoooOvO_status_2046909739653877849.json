@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042606909086404616",
+    "conversation_id": "2046439284023152963",
+    "created_at": "2026-04-22T11:11:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T12:11:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046909739653877849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2038492322237673472",
+          "start": 0,
+          "username": "Aaacyanlime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046909739653877849",
+    "in_reply_to_user_id": "2038492322237673472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046823468424159719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aaacyanlime 谢谢你呀🫶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042606909086404616",
+        "conversation_id": "2046439284023152963",
+        "created_at": "2026-04-22T11:11:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T12:11:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046909739653877849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2038492322237673472",
+              "start": 0,
+              "username": "Aaacyanlime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046909739653877849",
+        "in_reply_to_user_id": "2038492322237673472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046823468424159719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aaacyanlime 谢谢你呀🫶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038492322237673472",
+        "conversation_id": "2046439284023152963",
+        "created_at": "2026-04-22T05:28:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T06:28:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046823468424159719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2042606909086404616",
+              "start": 0,
+              "username": "CacoooOvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046823468424159719",
+        "in_reply_to_user_id": "2042606909086404616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046439284023152963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CacoooOvO 你好可爱！可爱的小鸡！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-10T14:14:51.000Z",
+        "description": "Caco/呓语 已成年\n温良婊，微审回fo、无🚪欢迎来找我玩\n餐券三年/伪烟草品鉴砖家\n喜欢玩各种音游（邦多利为主）和明日方舟（澄闪厨",
+        "id": "2042606909086404616",
+        "location": "Your heart",
+        "name": "Camellia",
+        "pinned_tweet_id": "2046439284023152963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042609084139212801/zXgrc0gB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 344,
+          "like_count": 512,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 103
+        },
+        "username": "CacoooOvO",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-30T05:43:53.000Z",
+        "description": "",
+        "id": "2038492322237673472",
+        "name": "以清 .",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041896855802671108/Hw73Ls4v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 14,
+          "like_count": 757,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 195
+        },
+        "username": "Aaacyanlime",
+        "verified": false
+      }
+    ]
+  }
+}

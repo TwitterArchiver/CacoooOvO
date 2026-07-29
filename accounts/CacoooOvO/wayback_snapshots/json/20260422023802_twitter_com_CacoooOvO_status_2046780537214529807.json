@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042606909086404616",
+    "conversation_id": "2046439284023152963",
+    "created_at": "2026-04-22T02:38:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T03:38:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046780537214529807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1882984924212506625",
+          "start": 0,
+          "username": "Carmen_Remed1os"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046780537214529807",
+    "in_reply_to_user_id": "1882984924212506625",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046770239573274639",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Carmen_Remed1os 贴贴—"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042606909086404616",
+        "conversation_id": "2046439284023152963",
+        "created_at": "2026-04-22T02:38:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T03:38:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046780537214529807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1882984924212506625",
+              "start": 0,
+              "username": "Carmen_Remed1os"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046780537214529807",
+        "in_reply_to_user_id": "1882984924212506625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046770239573274639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Carmen_Remed1os 贴贴—"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882984924212506625",
+        "conversation_id": "2046439284023152963",
+        "created_at": "2026-04-22T01:57:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T02:57:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046770239573274639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2042606909086404616",
+              "start": 0,
+              "username": "CacoooOvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046770239573274639",
+        "in_reply_to_user_id": "2042606909086404616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046439284023152963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CacoooOvO 贴贴喵(⁠◍⁠•⁠ᴗ⁠•⁠◍⁠)⁠✧⁠*⁠。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-10T14:14:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "South Heart, North Dakota, United States",
+              "geo": {
+                "coordinates": [
+                  -102.99157,
+                  46.86473
+                ],
+                "type": "Point"
+              },
+              "locality": "South Heart",
+              "region": "North Dakota",
+              "sub_region": "Stark County"
+            }
+          ]
+        },
+        "description": "Caco/呓语 已成年\n温良婊，fo我都会回 无🚪欢迎来找我玩呀\n餐券三年/伪烟草品鉴砖家\n喜欢玩各种音游（邦多利为主）和明日方舟（澄闪厨",
+        "id": "2042606909086404616",
+        "location": "Your heart",
+        "name": "Camellia",
+        "pinned_tweet_id": "2046439284023152963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042609084139212801/zXgrc0gB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 277,
+          "like_count": 441,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 77
+        },
+        "username": "CacoooOvO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T02:53:01.000Z",
+        "description": "“惟愿死亡将我们相连” /永恒而自由的夜桜王国/也许是地雷女也许不是/学不会化学但是会做小唇膏/人在推时大概没吃药易燃易爆",
+        "id": "1882984924212506625",
+        "location": "SOMO轨道",
+        "name": "Carmen Austin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037506898728218624/0sLFzMMV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 11,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 58
+        },
+        "username": "Carmen_Remed1os",
+        "verified": false
+      }
+    ]
+  }
+}

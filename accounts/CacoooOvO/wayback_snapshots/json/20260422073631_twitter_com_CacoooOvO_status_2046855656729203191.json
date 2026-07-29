@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042606909086404616",
+    "conversation_id": "2046439284023152963",
+    "created_at": "2026-04-22T07:36:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T08:36:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046855656729203191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1394515305569783809",
+          "start": 0,
+          "username": "sally08606587"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046855656729203191",
+    "in_reply_to_user_id": "1394515305569783809",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046793630934007846",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sally08606587 亲亲你！来找我玩呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042606909086404616",
+        "conversation_id": "2046439284023152963",
+        "created_at": "2026-04-22T07:36:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T08:36:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046855656729203191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1394515305569783809",
+              "start": 0,
+              "username": "sally08606587"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046855656729203191",
+        "in_reply_to_user_id": "1394515305569783809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046793630934007846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sally08606587 亲亲你！来找我玩呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1394515305569783809",
+        "conversation_id": "2046439284023152963",
+        "created_at": "2026-04-22T03:30:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T04:30:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046793630934007846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2042606909086404616",
+              "start": 0,
+              "username": "CacoooOvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046793630934007846",
+        "in_reply_to_user_id": "2042606909086404616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046439284023152963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CacoooOvO 宝宝好可爱！！想和你交友🥺🌹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-10T14:14:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "South Heart, North Dakota, United States",
+              "geo": {
+                "coordinates": [
+                  -102.99157,
+                  46.86473
+                ],
+                "type": "Point"
+              },
+              "locality": "South Heart",
+              "region": "North Dakota",
+              "sub_region": "Stark County"
+            }
+          ]
+        },
+        "description": "Caco/呓语 已成年\n温良婊，fo我都会回 无🚪欢迎来找我玩\n餐券三年/伪烟草品鉴砖家\n喜欢玩各种音游（邦多利为主）和明日方舟（澄闪厨",
+        "id": "2042606909086404616",
+        "location": "Your heart",
+        "name": "Camellia",
+        "pinned_tweet_id": "2046439284023152963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042609084139212801/zXgrc0gB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 316,
+          "like_count": 479,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 86
+        },
+        "username": "CacoooOvO",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-18T04:49:08.000Z",
+        "description": "我喜欢你",
+        "id": "1394515305569783809",
+        "location": "福州十六中",
+        "name": "海绵宝宝铸币儿",
+        "pinned_tweet_id": "2044981057431470480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032316370181136384/I9ETTqjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 434,
+          "like_count": 2151,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 250
+        },
+        "username": "sally08606587",
+        "verified": false
+      }
+    ]
+  }
+}

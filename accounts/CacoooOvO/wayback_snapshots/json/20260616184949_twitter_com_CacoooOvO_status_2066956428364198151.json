@@ -1,0 +1,112 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042606909086404616",
+    "conversation_id": "2066956428364198151",
+    "created_at": "2026-06-16T18:49:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T19:49:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066956428364198151"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066956428364198151",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "啤酒好难喝好难喝好难喝。因为朋友请客 硬着头皮和她一晚上喝了五升 喝的想吐头疼好难受\n所以喜欢喝啤酒的到底怎么喝下去的？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042606909086404616",
+        "conversation_id": "2066956428364198151",
+        "created_at": "2026-06-16T18:49:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T19:49:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066956428364198151"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066956428364198151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啤酒好难喝好难喝好难喝。因为朋友请客 硬着头皮和她一晚上喝了五升 喝的想吐头疼好难受\n所以喜欢喝啤酒的到底怎么喝下去的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-10T14:14:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "South Heart, North Dakota, United States",
+              "geo": {
+                "coordinates": [
+                  -102.99157,
+                  46.86473
+                ],
+                "type": "Point"
+              },
+              "locality": "South Heart",
+              "region": "North Dakota",
+              "sub_region": "Stark County"
+            }
+          ]
+        },
+        "description": "Caco/呓语 友跨\n六月正式回归 期间偶尔发帖证明我还活着…\n简中/繁中/En/日本語\n温良婊，微审回fo、无🚪欢迎来找我玩\n不怀好意接近我的人我会直接b掉\n餐券🈹️/o三年 戒割中/烟草品鉴\n喜欢玩各种音游（邦多利为主）和明日方舟（澄闪厨",
+        "id": "2042606909086404616",
+        "location": "Your heart",
+        "name": "Caco",
+        "pinned_tweet_id": "2047514784875303418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042609084139212801/zXgrc0gB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 591,
+          "following_count": 772,
+          "like_count": 2835,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 402
+        },
+        "username": "CacoooOvO",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042606909086404616",
+    "conversation_id": "2073170521190170912",
+    "created_at": "2026-07-05T00:24:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T01:24:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073563740495368311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1769017390115819521",
+          "start": 0,
+          "username": "MaxTaylor105874"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073563740495368311",
+    "in_reply_to_user_id": "1769017390115819521",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073446024996123031",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MaxTaylor105874 What’s up bro"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042606909086404616",
+        "conversation_id": "2073170521190170912",
+        "created_at": "2026-07-05T00:24:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T01:24:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073563740495368311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1769017390115819521",
+              "start": 0,
+              "username": "MaxTaylor105874"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073563740495368311",
+        "in_reply_to_user_id": "1769017390115819521",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073446024996123031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaxTaylor105874 What’s up bro"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1769017390115819521",
+        "conversation_id": "2073170521190170912",
+        "created_at": "2026-07-04T16:37:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T17:37:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073446024996123031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2042606909086404616",
+              "start": 0,
+              "username": "CacoooOvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073446024996123031",
+        "in_reply_to_user_id": "2042606909086404616",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073170521190170912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CacoooOvO Hi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-10T14:14:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "South Heart, North Dakota, United States",
+              "geo": {
+                "coordinates": [
+                  -102.99157,
+                  46.86473
+                ],
+                "type": "Point"
+              },
+              "locality": "South Heart",
+              "region": "North Dakota",
+              "sub_region": "Stark County"
+            }
+          ]
+        },
+        "description": "Caco/呓语 友跨\n简中/繁中/En/日本語\n温良顺直，微审回fo 无🚪欢迎来找我玩\n不怀好意接近我的人我会b掉\n餐券🈹️/o三年 精神病康复中 热爱品鉴烟草\nbangdream/arknights",
+        "id": "2042606909086404616",
+        "location": "Your heart",
+        "name": "Caco",
+        "pinned_tweet_id": "2047514784875303418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042609084139212801/zXgrc0gB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 732,
+          "following_count": 830,
+          "like_count": 3278,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 452
+        },
+        "url": "",
+        "username": "CacoooOvO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-16T15:06:43.000Z",
+        "description": "",
+        "id": "1769017390115819521",
+        "name": "Max Taylor",
+        "pinned_tweet_id": "2064829391830474813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769017606835433472/0Iaz3LBq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2295,
+          "following_count": 1897,
+          "like_count": 289,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 26860
+        },
+        "url": "",
+        "username": "MaxTaylor105874",
+        "verified": false
+      }
+    ]
+  }
+}

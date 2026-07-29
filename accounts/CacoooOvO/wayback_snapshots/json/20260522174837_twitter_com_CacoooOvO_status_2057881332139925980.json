@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042606909086404616",
+    "conversation_id": "2057822998787473897",
+    "created_at": "2026-05-22T17:48:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T18:48:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057881332139925980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2012841769105567744",
+          "start": 0,
+          "username": "18nuun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057881332139925980",
+    "in_reply_to_user_id": "2012841769105567744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057822998787473897",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@18nuun 你要替她活下去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042606909086404616",
+        "conversation_id": "2057822998787473897",
+        "created_at": "2026-05-22T17:48:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T18:48:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057881332139925980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2012841769105567744",
+              "start": 0,
+              "username": "18nuun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057881332139925980",
+        "in_reply_to_user_id": "2012841769105567744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057822998787473897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@18nuun 你要替她活下去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012841769105567744",
+        "conversation_id": "2057822998787473897",
+        "created_at": "2026-05-22T13:56:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T14:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057822998787473897"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057822998787473897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4027,
+          "like_count": 52,
+          "quote_count": 2,
+          "reply_count": 20,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "水水的死是我的错\n\n真的是我的错\n\n我明明是他最爱的人，但是我却偏偏做了那么蠢的事\n\n我正在准备以死谢罪，药过几天就会到\n\n对不起，对不起所有人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-10T14:14:51.000Z",
+        "description": "Caco/呓语 友跨\n六月正式回归 期间偶尔发帖证明我还活着…\n简中/繁中/En/日本語\n温良婊，微审回fo、无🚪欢迎来找我玩\n餐券🈹️/o三年/烟草品鉴\n喜欢玩各种音游（邦多利为主）和明日方舟（澄闪厨",
+        "id": "2042606909086404616",
+        "location": "Your heart",
+        "name": "Caco",
+        "pinned_tweet_id": "2047514784875303418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042609084139212801/zXgrc0gB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 593,
+          "following_count": 766,
+          "like_count": 2684,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 392
+        },
+        "username": "CacoooOvO",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-18T10:57:56.000Z",
+        "description": "沉浸于药物和自毁的欣快之中｜mtf｜06｜重抑｜INFP｜💊药物成瘾中心｜永远的爱人@dnshu135734｜大号是@aureliax17qwq｜896489648964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 42,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 72,
+                "start": 58,
+                "username": "aureliax17qwq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 23,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 0,
+                "url": "https://t.co/zuGwDBShHX"
+              }
+            ]
+          }
+        },
+        "id": "2012841769105567744",
+        "name": "海月水母x17🍥",
+        "pinned_tweet_id": "2048730215359406376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051431775319281664/S0BXOQH5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 33,
+          "like_count": 246,
+          "listed_count": 3,
+          "media_count": 13,
+          "tweet_count": 122
+        },
+        "url": "https://t.co/zuGwDBShHX",
+        "username": "18nuun",
+        "verified": false
+      }
+    ]
+  }
+}

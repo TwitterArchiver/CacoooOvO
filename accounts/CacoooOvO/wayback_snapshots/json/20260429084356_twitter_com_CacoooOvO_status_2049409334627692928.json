@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042606909086404616",
+    "conversation_id": "2049409334627692928",
+    "created_at": "2026-04-29T08:43:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T09:43:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049409334627692928"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2049409334627692928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "遇到一点麻烦事就开始踢皮球了 中国条子就这德行我操你妈 但凡没互相推托责任早早的找见人也不会让他死于一氧化碳中毒 我操你们妈 都去死吧 我恨你们"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042606909086404616",
+        "conversation_id": "2049409334627692928",
+        "created_at": "2026-04-29T08:43:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T09:43:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049409334627692928"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049409334627692928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "遇到一点麻烦事就开始踢皮球了 中国条子就这德行我操你妈 但凡没互相推托责任早早的找见人也不会让他死于一氧化碳中毒 我操你们妈 都去死吧 我恨你们"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-10T14:14:51.000Z",
+        "description": "Caco/呓语 友跨\n简中/繁中/En\n温良婊，微审回fo、无🚪欢迎来找我玩\n餐券🈹️/o三年/烟草品鉴\n喜欢玩各种音游（邦多利为主）和明日方舟（澄闪厨",
+        "id": "2042606909086404616",
+        "location": "Your heart",
+        "name": "Camellia",
+        "pinned_tweet_id": "2046822210850230557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042609084139212801/zXgrc0gB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 622,
+          "like_count": 1194,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 250
+        },
+        "username": "CacoooOvO",
+        "verified": false
+      }
+    ]
+  }
+}

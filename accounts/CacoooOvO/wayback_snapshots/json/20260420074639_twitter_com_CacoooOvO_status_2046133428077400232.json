@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046133418694692864"
+      ]
+    },
+    "author_id": "2042606909086404616",
+    "conversation_id": "2045867710043795763",
+    "created_at": "2026-04-20T07:46:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T08:46:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046133428077400232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1813561571941183488",
+          "start": 0,
+          "username": "care1337_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zCUNmXAGs8",
+          "end": 42,
+          "expanded_url": "https://x.com/CacoooOvO/status/2046133428077400232/photo/1",
+          "media_key": "3_2046133418694692864",
+          "start": 19,
+          "url": "https://t.co/zCUNmXAGs8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046133428077400232",
+    "in_reply_to_user_id": "1813561571941183488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045867710043795763",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@care1337_ 我老公左丑死了 https://t.co/zCUNmXAGs8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2046133418694692864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGVTgOBaUAAmFWF.jpg",
+        "width": 1080
+      },
+      {
+        "height": 589,
+        "media_key": "3_2045867707397263360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGRh1yTbUAAVbT8.jpg",
+        "width": 762
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046133418694692864"
+          ]
+        },
+        "author_id": "2042606909086404616",
+        "conversation_id": "2045867710043795763",
+        "created_at": "2026-04-20T07:46:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T08:46:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046133428077400232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "care1337_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zCUNmXAGs8",
+              "end": 42,
+              "expanded_url": "https://x.com/CacoooOvO/status/2046133428077400232/photo/1",
+              "media_key": "3_2046133418694692864",
+              "start": 19,
+              "url": "https://t.co/zCUNmXAGs8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046133428077400232",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045867710043795763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@care1337_ 我老公左丑死了 https://t.co/zCUNmXAGs8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045867707397263360"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2045867710043795763",
+        "created_at": "2026-04-19T14:10:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T15:10:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045867710043795763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sZKxq012nE",
+              "end": 155,
+              "expanded_url": "https://x.com/care1337_/status/2045867710043795763/photo/1",
+              "media_key": "3_2045867707397263360",
+              "start": 132,
+              "url": "https://t.co/sZKxq012nE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045867710043795763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "以前我们嗑右美沙芬的时候，先吃一周舍曲林，然后30t右美沙芬，直接血清素综合征体验世界毁灭，那个时候白云山也是主流，不过还有一种蓝色盒子的，药片很小很小，神中神，一次能吞十多片\n\n那个时候不用被迫嗑愈美，50t右美沙芬吃完第二天正常去上课，不用闻到尿里愈美的臭味\n\n普瑞巴林也是随便买，早上吃个十多颗高高兴兴上一天的课，就是脸会变黑\n\n金刚烷胺那个时候也很流行，不过我吃了会谵妄，苯海拉索也是热门药\n\n不过那个时候没有苯乙胺，dpt这些东西，偶尔有人买点笑气，依托咪酯（这个是真的爽)\n\n其实我也想回到过去，但我已经长大了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 3540,
+          "like_count": 68,
+          "quote_count": 1,
+          "reply_count": 18,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "以前我们嗑右美沙芬的时候，先吃一周舍曲林，然后30t右美沙芬，直接血清素综合征体验世界毁灭，那个时候白云山也是主流，不过还有一种蓝色盒子的，药片很小很小，神中神，一次能吞十多片\n\n那个时候不用被迫嗑愈美，50t右美沙芬吃完第二天正常去上课，不用闻到尿里愈美的臭味 https://t.co/sZKxq012nE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-10T14:14:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "South Heart, North Dakota, United States",
+              "geo": {
+                "coordinates": [
+                  -102.99157,
+                  46.86473
+                ],
+                "type": "Point"
+              },
+              "locality": "South Heart",
+              "region": "North Dakota",
+              "sub_region": "Stark County"
+            }
+          ]
+        },
+        "description": "Caco/呓语 已成年\n温良婊，fo我都会回 欢迎来找我玩呀\n中抑重焦 严重睡眠障碍 药物治疗中。。\n🈹(已戒)/od 喜欢品鉴一些烟草🚬🚬餐券三年资历\n喜欢玩各种音游（邦多利为主）和arknights/明日方舟澄闪厨",
+        "id": "2042606909086404616",
+        "location": "Your heart",
+        "name": "Camellia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042609084139212801/zXgrc0gB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 151,
+          "like_count": 214,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 43
+        },
+        "username": "CacoooOvO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女(mtf)🍥🍥，河南新乡人🚸，常驻宛平南路600号🏥，喜欢普瑞巴林💊。\n鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，蓝v互关",
+        "id": "1813561571941183488",
+        "name": "maybe🍥🏳️‍⚧️🇯🇵",
+        "pinned_tweet_id": "2045832031062630745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044960713345818624/eNV6jb0O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 120,
+          "like_count": 2955,
+          "listed_count": 1,
+          "media_count": 354,
+          "tweet_count": 1064
+        },
+        "username": "care1337_",
+        "verified": true
+      }
+    ]
+  }
+}

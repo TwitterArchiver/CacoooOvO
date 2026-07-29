@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042606909086404616",
+    "conversation_id": "2049867190577639599",
+    "created_at": "2026-04-30T15:03:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T16:03:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049867190577639599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1782157351170035712",
+          "start": 3,
+          "username": "AppleCan0225"
+        },
+        {
+          "end": 33,
+          "id": "1991711672684421121",
+          "start": 18,
+          "username": "pearl0812lucky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049867190577639599",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049365227842789840",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AppleCan0225: @pearl0812lucky 谁哭了是为了解决问题。难道在灵堂上大哭一场是为了让老爹复活吗。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042606909086404616",
+        "conversation_id": "2049867190577639599",
+        "created_at": "2026-04-30T15:03:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T16:03:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049867190577639599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1782157351170035712",
+              "start": 3,
+              "username": "AppleCan0225"
+            },
+            {
+              "end": 33,
+              "id": "1991711672684421121",
+              "start": 18,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049867190577639599",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049365227842789840",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AppleCan0225: @pearl0812lucky 谁哭了是为了解决问题。难道在灵堂上大哭一场是为了让老爹复活吗。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782157351170035712",
+        "conversation_id": "2049304082612191518",
+        "created_at": "2026-04-29T05:48:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T06:48:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049365227842789840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049365227842789840",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 15392,
+          "like_count": 822,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049304082612191518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 谁哭了是为了解决问题。难道在灵堂上大哭一场是为了让老爹复活吗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-10T14:14:51.000Z",
+        "description": "Caco/呓语 友跨\n简中/繁中/En/日本語\n温良婊，微审回fo、无🚪欢迎来找我玩\n餐券🈹️/o三年/烟草品鉴\n喜欢玩各种音游（邦多利为主）和明日方舟（澄闪厨",
+        "id": "2042606909086404616",
+        "location": "Your heart",
+        "name": "Camellia",
+        "pinned_tweet_id": "2046822210850230557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042609084139212801/zXgrc0gB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 657,
+          "like_count": 1519,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 276
+        },
+        "username": "CacoooOvO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-21T21:20:23.000Z",
+        "description": "完全是当成情绪垃圾处理器在用",
+        "id": "1782157351170035712",
+        "name": "⁽⁽ଘ( ˙꒳˙ )ଓ⁾⁾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782158351809331200/wvVZQFoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 7,
+          "like_count": 136,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 301
+        },
+        "username": "AppleCan0225",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地   匿名https://t.co/KI0NDjJlXB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orangecat60022",
+                "end": 40,
+                "expanded_url": "https://ngl.link/orangecat60022",
+                "start": 17,
+                "url": "https://t.co/KI0NDjJlXB"
+              }
+            ]
+          }
+        },
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6493,
+          "following_count": 60,
+          "like_count": 6678,
+          "listed_count": 6,
+          "media_count": 148,
+          "tweet_count": 1608
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042606909086404616",
+    "conversation_id": "2073170521190170912",
+    "created_at": "2026-07-05T00:25:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T01:25:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073564009882853731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2050596370609029120",
+          "start": 0,
+          "username": "yamihana068"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073564009882853731",
+    "in_reply_to_user_id": "2050596370609029120",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073482706814378066",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yamihana068 😦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1168,
+        "media_key": "3_2073482690485977089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZ9hW5WgAEGsL-.jpg",
+        "width": 784
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042606909086404616",
+        "conversation_id": "2073170521190170912",
+        "created_at": "2026-07-05T00:25:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T01:25:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073564009882853731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2050596370609029120",
+              "start": 0,
+              "username": "yamihana068"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073564009882853731",
+        "in_reply_to_user_id": "2050596370609029120",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073482706814378066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yamihana068 😦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073482690485977089"
+          ]
+        },
+        "author_id": "2050596370609029120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2073170521190170912",
+        "created_at": "2026-07-04T19:02:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T20:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073482706814378066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2042606909086404616",
+              "start": 0,
+              "username": "CacoooOvO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QzWGyAyHQq",
+              "end": 49,
+              "expanded_url": "https://x.com/yamihana068/status/2073482706814378066/photo/1",
+              "media_key": "3_2073482690485977089",
+              "start": 26,
+              "url": "https://t.co/QzWGyAyHQq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073482706814378066",
+        "in_reply_to_user_id": "2042606909086404616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073170521190170912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CacoooOvO 私も夜通し握りしめて消えたい https://t.co/QzWGyAyHQq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-10T14:14:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "South Heart, North Dakota, United States",
+              "geo": {
+                "coordinates": [
+                  -102.99157,
+                  46.86473
+                ],
+                "type": "Point"
+              },
+              "locality": "South Heart",
+              "region": "North Dakota",
+              "sub_region": "Stark County"
+            }
+          ]
+        },
+        "description": "Caco/呓语 友跨\n简中/繁中/En/日本語\n温良顺直，微审回fo 无🚪欢迎来找我玩\n不怀好意接近我的人我会b掉\n餐券🈹️/o三年 精神病康复中 热爱品鉴烟草\nbangdream/arknights",
+        "id": "2042606909086404616",
+        "location": "Your heart",
+        "name": "Caco",
+        "pinned_tweet_id": "2047514784875303418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042609084139212801/zXgrc0gB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 732,
+          "following_count": 830,
+          "like_count": 3279,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 454
+        },
+        "url": "",
+        "username": "CacoooOvO",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-02T15:20:53.000Z",
+        "description": "病み愛の語り部。心の闇探求歴8年。趣味は自己否定と毒依存 儚い逃避。独自の絡み方で心を絡め取る毒をあなたに…",
+        "id": "2050596370609029120",
+        "name": "儚い毒華",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067901474164584448/SRKdbiF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 288,
+          "like_count": 390,
+          "listed_count": 15,
+          "media_count": 56,
+          "tweet_count": 1974
+        },
+        "url": "",
+        "username": "yamihana068",
+        "verified": false
+      }
+    ]
+  }
+}

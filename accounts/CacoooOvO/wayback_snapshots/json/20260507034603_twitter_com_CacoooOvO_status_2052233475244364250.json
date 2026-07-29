@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2051968831778873345"
+      ],
+      "media_source_tweet_id": [
+        "2051968928344416743"
+      ]
+    },
+    "author_id": "2042606909086404616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2052233475244364250",
+    "created_at": "2026-05-07T03:46:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T04:46:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052233475244364250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2049082308553232384",
+          "start": 3,
+          "username": "Xiaoyuanovo888"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NqTal1dKrS",
+          "end": 131,
+          "expanded_url": "https://x.com/Xiaoyuanovo888/status/2051968928344416743/video/1",
+          "media_key": "13_2051968831778873345",
+          "start": 108,
+          "url": "https://t.co/NqTal1dKrS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052233475244364250",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051968928344416743",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xiaoyuanovo888: 线下vlog特别版 我们的黄艺轩小哥哥不仅冒充我 自己对象怀孕了还跑路了 验孕棒买不起 打胎钱出不起 对象怀孕我跑路 我叫艺轩你记住 欢迎去我们黄艺轩小哥哥的dy下面一探究竟 https://t.co/NqTal1dKrS"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 106676,
+        "height": 830,
+        "media_key": "13_2051968831778873345",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2051968831778873345/img/_2_iQlrDJytrzIZD.jpg",
+        "public_metrics": {
+          "view_count": 205534
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051968831778873345/vid/avc1/320x368/9ek-EyBJuzoy7DxE.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051968831778873345/vid/avc1/480x552/XLvhuUz8O9qhVtI-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051968831778873345/vid/avc1/720x830/W_otsHYYKaGPY1Hj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2051968831778873345/pl/0S0xMUINBVVfk7ti.m3u8?v=834"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2051968831778873345"
+          ],
+          "media_source_tweet_id": [
+            "2051968928344416743"
+          ]
+        },
+        "author_id": "2042606909086404616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052233475244364250",
+        "created_at": "2026-05-07T03:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T04:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052233475244364250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2049082308553232384",
+              "start": 3,
+              "username": "Xiaoyuanovo888"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NqTal1dKrS",
+              "end": 131,
+              "expanded_url": "https://x.com/Xiaoyuanovo888/status/2051968928344416743/video/1",
+              "media_key": "13_2051968831778873345",
+              "start": 108,
+              "url": "https://t.co/NqTal1dKrS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052233475244364250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051968928344416743",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xiaoyuanovo888: 线下vlog特别版 我们的黄艺轩小哥哥不仅冒充我 自己对象怀孕了还跑路了 验孕棒买不起 打胎钱出不起 对象怀孕我跑路 我叫艺轩你记住 欢迎去我们黄艺轩小哥哥的dy下面一探究竟 https://t.co/NqTal1dKrS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2051968831778873345"
+          ]
+        },
+        "author_id": "2049082308553232384",
+        "conversation_id": "2051968928344416743",
+        "created_at": "2026-05-06T10:14:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T11:14:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051968928344416743"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NqTal1dKrS",
+              "end": 111,
+              "expanded_url": "https://x.com/Xiaoyuanovo888/status/2051968928344416743/video/1",
+              "media_key": "13_2051968831778873345",
+              "start": 88,
+              "url": "https://t.co/NqTal1dKrS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051968928344416743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 159,
+          "impression_count": 364280,
+          "like_count": 1352,
+          "quote_count": 1,
+          "reply_count": 101,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "线下vlog特别版 我们的黄艺轩小哥哥不仅冒充我 自己对象怀孕了还跑路了 验孕棒买不起 打胎钱出不起 对象怀孕我跑路 我叫艺轩你记住 欢迎去我们黄艺轩小哥哥的dy下面一探究竟 https://t.co/NqTal1dKrS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-10T14:14:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "South Heart, North Dakota, United States",
+              "geo": {
+                "coordinates": [
+                  -102.99157,
+                  46.86473
+                ],
+                "type": "Point"
+              },
+              "locality": "South Heart",
+              "region": "North Dakota",
+              "sub_region": "Stark County"
+            }
+          ]
+        },
+        "description": "Caco/呓语 友跨\n六月正式回归 期间偶尔发帖证明我还活着…\n简中/繁中/En/日本語\n温良婊，微审回fo、无🚪欢迎来找我玩\n餐券🈹️/o三年/烟草品鉴\n喜欢玩各种音游（邦多利为主）和明日方舟（澄闪厨",
+        "id": "2042606909086404616",
+        "location": "Your heart",
+        "name": "Caco",
+        "pinned_tweet_id": "2047514784875303418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042609084139212801/zXgrc0gB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 663,
+          "like_count": 2000,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 338
+        },
+        "url": "",
+        "username": "CacoooOvO",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-28T11:05:13.000Z",
+        "description": "防走丢小号",
+        "id": "2049082308553232384",
+        "name": "小小远ovo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049082777807806464/O5BFiSqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8492,
+          "following_count": 3,
+          "like_count": 1,
+          "listed_count": 2,
+          "media_count": 5,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "Xiaoyuanovo888",
+        "verified": false
+      }
+    ]
+  }
+}

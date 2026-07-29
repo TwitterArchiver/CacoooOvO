@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042606909086404616",
+    "conversation_id": "2049029440710308116",
+    "created_at": "2026-04-28T07:34:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T08:34:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049029440710308116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1445400963632750596",
+          "start": 3,
+          "username": "Im_Just__Girl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049029440710308116",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048757042714935603",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Im_Just__Girl: 感觉从这个春天开始，中推圈很多人精神状态开始不对劲，也包括我，这不是幻觉。很奇怪。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042606909086404616",
+        "conversation_id": "2049029440710308116",
+        "created_at": "2026-04-28T07:34:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T08:34:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049029440710308116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1445400963632750596",
+              "start": 3,
+              "username": "Im_Just__Girl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049029440710308116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048757042714935603",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Im_Just__Girl: 感觉从这个春天开始，中推圈很多人精神状态开始不对劲，也包括我，这不是幻觉。很奇怪。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1445400963632750596",
+        "conversation_id": "2048757042714935603",
+        "created_at": "2026-04-27T13:31:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T14:31:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048757042714935603"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048757042714935603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 6829,
+          "like_count": 99,
+          "quote_count": 2,
+          "reply_count": 15,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "感觉从这个春天开始，中推圈很多人精神状态开始不对劲，也包括我，这不是幻觉。很奇怪。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-10T14:14:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "South Heart, North Dakota, United States",
+              "geo": {
+                "coordinates": [
+                  -102.99157,
+                  46.86473
+                ],
+                "type": "Point"
+              },
+              "locality": "South Heart",
+              "region": "North Dakota",
+              "sub_region": "Stark County"
+            }
+          ]
+        },
+        "description": "Caco/呓语\n简中/繁中/En\n温良婊，微审回fo、无🚪欢迎来找我玩\n餐券🈹️/o三年/烟草品鉴\n喜欢玩各种音游（邦多利为主）和明日方舟（澄闪厨",
+        "id": "2042606909086404616",
+        "location": "Your heart",
+        "name": "Camellia",
+        "pinned_tweet_id": "2046822210850230557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042609084139212801/zXgrc0gB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 601,
+          "like_count": 934,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 213
+        },
+        "username": "CacoooOvO",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-05T14:51:49.000Z",
+        "description": "可怜的有机小女孩，脾气也很坏，说不定哪天就死了|I'm a Good girl. Please don't hurt me.👧|🌈|OD雌二醇",
+        "id": "1445400963632750596",
+        "location": "Girls Home",
+        "name": "Danielle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024462232961372162/WYgmAow1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 850,
+          "following_count": 858,
+          "like_count": 13004,
+          "listed_count": 4,
+          "media_count": 143,
+          "tweet_count": 6708
+        },
+        "username": "Im_Just__Girl",
+        "verified": true
+      }
+    ]
+  }
+}

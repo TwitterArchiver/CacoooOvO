@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042606909086404616",
+    "conversation_id": "2046418101127053815",
+    "created_at": "2026-04-21T02:37:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T03:37:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046418101127053815"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cigsafterdrug/…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/cigsafterdrug/status/2046289883921350919",
+          "start": 4,
+          "url": "https://t.co/GIFEZlfE54"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046418101127053815",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046289883921350919",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "666 https://t.co/GIFEZlfE54"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 373,
+        "media_key": "3_2046289878166671360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGXhzW-aEAAH3PS.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042606909086404616",
+        "conversation_id": "2046418101127053815",
+        "created_at": "2026-04-21T02:37:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T03:37:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046418101127053815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cigsafterdrug/…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/cigsafterdrug/status/2046289883921350919",
+              "start": 4,
+              "url": "https://t.co/GIFEZlfE54"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046418101127053815",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046289883921350919",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "666 https://t.co/GIFEZlfE54"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046289878166671360"
+          ]
+        },
+        "author_id": "1536716629505359872",
+        "conversation_id": "2046289883921350919",
+        "created_at": "2026-04-20T18:08:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T19:08:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046289883921350919"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aYMjZ48FIT",
+              "end": 27,
+              "expanded_url": "https://x.com/cigsafterdrug/status/2046289883921350919/photo/1",
+              "media_key": "3_2046289878166671360",
+              "start": 4,
+              "url": "https://t.co/aYMjZ48FIT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046289883921350919",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 329,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "何意味 https://t.co/aYMjZ48FIT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-10T14:14:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "South Heart, North Dakota, United States",
+              "geo": {
+                "coordinates": [
+                  -102.99157,
+                  46.86473
+                ],
+                "type": "Point"
+              },
+              "locality": "South Heart",
+              "region": "North Dakota",
+              "sub_region": "Stark County"
+            }
+          ]
+        },
+        "description": "Caco/呓语 已成年\n温良婊，fo我都会回 欢迎来找我玩呀\n中抑重焦 严重睡眠障碍 药物治疗中。。\n🈹(已戒)/od 喜欢品鉴一些烟草🚬🚬餐券三年资历\n喜欢玩各种音游（邦多利为主）和arknights/明日方舟澄闪厨",
+        "id": "2042606909086404616",
+        "location": "Your heart",
+        "name": "Camellia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042609084139212801/zXgrc0gB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 164,
+          "like_count": 308,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 52
+        },
+        "username": "CacoooOvO",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 330,
+          "like_count": 21927,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 1721
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      }
+    ]
+  }
+}

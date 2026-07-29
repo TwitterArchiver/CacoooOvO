@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042606909086404616",
+    "conversation_id": "2069845118484705469",
+    "created_at": "2026-06-25T17:00:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T18:00:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070190329744281716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1736764672999878656",
+          "start": 0,
+          "username": "BAKA__0902"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070190329744281716",
+    "in_reply_to_user_id": "1736764672999878656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069845118484705469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BAKA__0902 报名！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042606909086404616",
+        "conversation_id": "2069845118484705469",
+        "created_at": "2026-06-25T17:00:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T18:00:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070190329744281716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1736764672999878656",
+              "start": 0,
+              "username": "BAKA__0902"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070190329744281716",
+        "in_reply_to_user_id": "1736764672999878656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069845118484705469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BAKA__0902 报名！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1736764672999878656",
+        "conversation_id": "2069845118484705469",
+        "created_at": "2026-06-24T18:08:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T19:08:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069845118484705469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/BAKA__0902/sta…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/BAKA__0902/status/2069833849941659732",
+              "start": 20,
+              "url": "https://t.co/15hMvTohak"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069845118484705469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4647,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 41,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069833849941659732",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "再招两个人员测试不知道有没有人报名TT https://t.co/15hMvTohak"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-10T14:14:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "South Heart, North Dakota, United States",
+              "geo": {
+                "coordinates": [
+                  -102.99157,
+                  46.86473
+                ],
+                "type": "Point"
+              },
+              "locality": "South Heart",
+              "region": "North Dakota",
+              "sub_region": "Stark County"
+            }
+          ]
+        },
+        "description": "Caco/呓语 友跨\n简中/繁中/En/日本語\n温良婊，微审回fo、无🚪欢迎来找我玩\n不怀好意接近我的人我会直接b掉\n餐券🈹️/o三年 精神病康复中 热爱品鉴烟草\nbangdream/arknights",
+        "id": "2042606909086404616",
+        "location": "Your heart",
+        "name": "Caco",
+        "pinned_tweet_id": "2047514784875303418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042609084139212801/zXgrc0gB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 775,
+          "like_count": 2918,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 404
+        },
+        "url": "",
+        "username": "CacoooOvO",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-18T15:05:45.000Z",
+        "description": "好想吃麦当劳",
+        "id": "1736764672999878656",
+        "name": "不爱我我就去死",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032564534226116608/2YCnGNJE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 1049,
+          "like_count": 7729,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 1544
+        },
+        "url": "",
+        "username": "BAKA__0902",
+        "verified": false
+      }
+    ]
+  }
+}

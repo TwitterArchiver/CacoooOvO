@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042606909086404616",
+    "conversation_id": "2047559896124751909",
+    "created_at": "2026-04-24T06:14:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T07:14:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047559896124751909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1862557266890956800",
+          "start": 3,
+          "username": "bei_haishui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047559896124751909",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 119
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046924343171776611",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bei_haishui: 我对这个每天都要洗内裤的世界感到深深的绝望"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042606909086404616",
+        "conversation_id": "2047559896124751909",
+        "created_at": "2026-04-24T06:14:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T07:14:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047559896124751909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1862557266890956800",
+              "start": 3,
+              "username": "bei_haishui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047559896124751909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 119
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046924343171776611",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bei_haishui: 我对这个每天都要洗内裤的世界感到深深的绝望"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862557266890956800",
+        "conversation_id": "2046924343171776611",
+        "created_at": "2026-04-22T12:09:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T13:09:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046924343171776611"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046924343171776611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 82523,
+          "like_count": 1715,
+          "quote_count": 11,
+          "reply_count": 351,
+          "retweet_count": 119
+        },
+        "reply_settings": "everyone",
+        "text": "我对这个每天都要洗内裤的世界感到深深的绝望"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-10T14:14:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "South Heart, North Dakota, United States",
+              "geo": {
+                "coordinates": [
+                  -102.99157,
+                  46.86473
+                ],
+                "type": "Point"
+              },
+              "locality": "South Heart",
+              "region": "North Dakota",
+              "sub_region": "Stark County"
+            }
+          ]
+        },
+        "description": "Caco/呓语 已成年\n温良婊，微审回fo、无🚪欢迎来找我玩\n餐券🈹️/o三年/伪烟草品鉴砖家\n喜欢玩各种音游（邦多利为主）和明日方舟（澄闪厨",
+        "id": "2042606909086404616",
+        "location": "Your heart",
+        "name": "Camellia",
+        "pinned_tweet_id": "2046822210850230557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042609084139212801/zXgrc0gB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 476,
+          "like_count": 687,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 147
+        },
+        "username": "CacoooOvO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-29T18:00:42.000Z",
+        "description": "非常低质非常日常的一头猪\n私信常开允许骚扰\n碎碎念和一些喜欢的片@liiiiizhibei",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 32,
+                "username": "liiiiizhibei"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ssrcat.bar/index.php#/reg…",
+                "end": 23,
+                "expanded_url": "https://ssrcat.bar/index.php#/register?code=GXfczkiy&from=%E5%86%B0%E5%98%B4%E5%94%87",
+                "start": 0,
+                "url": "https://t.co/5dh5BaiMY7"
+              }
+            ]
+          }
+        },
+        "id": "1862557266890956800",
+        "location": "自用vpn",
+        "name": "冰嘴唇.",
+        "pinned_tweet_id": "2043276561810600004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018942052453744640/_YsWMcxf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9693,
+          "following_count": 410,
+          "like_count": 44421,
+          "listed_count": 12,
+          "media_count": 105,
+          "tweet_count": 5757
+        },
+        "url": "https://t.co/5dh5BaiMY7",
+        "username": "bei_haishui",
+        "verified": false
+      }
+    ]
+  }
+}

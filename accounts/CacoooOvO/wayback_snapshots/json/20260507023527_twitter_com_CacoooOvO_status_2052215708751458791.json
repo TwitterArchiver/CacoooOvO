@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042606909086404616",
+    "conversation_id": "2052215708751458791",
+    "created_at": "2026-05-07T02:35:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T03:35:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052215708751458791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1845076547197353984",
+          "start": 3,
+          "username": "jutangxiao1229"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052215708751458791",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043177121665978810",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jutangxiao1229: Q：有什么方法抑制食欲？\nA：漏服文拉法辛，强烈且持续的恶心感，吃一点东西就吐吐吐😭\n不过又可以减重了(bushi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042606909086404616",
+        "conversation_id": "2052215708751458791",
+        "created_at": "2026-05-07T02:35:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T03:35:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052215708751458791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1845076547197353984",
+              "start": 3,
+              "username": "jutangxiao1229"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052215708751458791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043177121665978810",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jutangxiao1229: Q：有什么方法抑制食欲？\nA：漏服文拉法辛，强烈且持续的恶心感，吃一点东西就吐吐吐😭\n不过又可以减重了(bushi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2043177121665978810",
+        "created_at": "2026-04-12T03:59:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T04:59:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043177121665978810"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043177121665978810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 849,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "Q：有什么方法抑制食欲？\nA：漏服文拉法辛，强烈且持续的恶心感，吃一点东西就吐吐吐😭\n不过又可以减重了(bushi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-10T14:14:51.000Z",
+        "description": "Caco/呓语 友跨\n六月正式回归 期间偶尔发帖证明我还活着…\n简中/繁中/En/日本語\n温良婊，微审回fo、无🚪欢迎来找我玩\n餐券🈹️/o三年/烟草品鉴\n喜欢玩各种音游（邦多利为主）和明日方舟（澄闪厨",
+        "id": "2042606909086404616",
+        "location": "Your heart",
+        "name": "Caco",
+        "pinned_tweet_id": "2047514784875303418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042609084139212801/zXgrc0gB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 583,
+          "following_count": 658,
+          "like_count": 1936,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 334
+        },
+        "url": "",
+        "username": "CacoooOvO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/mtf/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046809986580541440/7LXsKC60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 850,
+          "following_count": 143,
+          "like_count": 2458,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 264
+        },
+        "url": "",
+        "username": "jutangxiao1229",
+        "verified": false
+      }
+    ]
+  }
+}

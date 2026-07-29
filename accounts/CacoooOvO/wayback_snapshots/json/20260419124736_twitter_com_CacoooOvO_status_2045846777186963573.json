@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042606909086404616",
+    "conversation_id": "2045846777186963573",
+    "created_at": "2026-04-19T12:47:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T13:47:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045846777186963573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1716325928479903744",
+          "start": 3,
+          "username": "qiu_song60259"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045846777186963573",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045519077888884988",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qiu_song60259: 蔡徐坤我祝你星途璀璨OK啊谢谢坤哥哦鸡鸡鸡鸡贝贝贝贝贝迎面走来的你让我蠢蠢欲动"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042606909086404616",
+        "conversation_id": "2045846777186963573",
+        "created_at": "2026-04-19T12:47:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T13:47:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045846777186963573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1716325928479903744",
+              "start": 3,
+              "username": "qiu_song60259"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045846777186963573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045519077888884988",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qiu_song60259: 蔡徐坤我祝你星途璀璨OK啊谢谢坤哥哦鸡鸡鸡鸡贝贝贝贝贝迎面走来的你让我蠢蠢欲动"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1716325928479903744",
+        "conversation_id": "2045519077888884988",
+        "created_at": "2026-04-18T15:05:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T16:05:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045519077888884988"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045519077888884988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 8035,
+          "like_count": 85,
+          "quote_count": 0,
+          "reply_count": 64,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "蔡徐坤我祝你星途璀璨OK啊谢谢坤哥哦鸡鸡鸡鸡贝贝贝贝贝迎面走来的你让我蠢蠢欲动"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-10T14:14:51.000Z",
+        "description": "Caco/呓语 已成年\n温良婊，fo我都会回 欢迎来找我玩呀\n中抑重焦 严重睡眠障碍 药物治疗中。。\n🈹(已戒)/od 喜欢品鉴一些烟草🚬🚬餐券三年资历\n喜欢玩各种音游（邦多利为主）和arknights/明日方舟澄闪厨",
+        "id": "2042606909086404616",
+        "location": "Your heart",
+        "name": "Camellia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042609084139212801/zXgrc0gB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 129,
+          "like_count": 155,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 36
+        },
+        "username": "CacoooOvO",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-23T05:29:38.000Z",
+        "description": "09苦逼美术生丨hello你们好我是苦瓜/小咪咪（别忘记我我喜欢改头像和名字TωT）|小号闭关只过互关熟人@Kuguadawang6677 我只是个可怜的住宿生上学常驻小号@o65518kuguagua 每天给我发一百条匿名好不好(๑•̀ω•́๑)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 53,
+                "username": "Kuguadawang6677"
+              },
+              {
+                "end": 101,
+                "start": 86,
+                "username": "o65518kuguagua"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/YLzBwcv4VK"
+              }
+            ]
+          }
+        },
+        "id": "1716325928479903744",
+        "location": "加载失败，请重试      匿名→",
+        "name": "擦去你眼角的泪",
+        "pinned_tweet_id": "2035054781144998185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035213801264689152/oBVhKu4C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3638,
+          "following_count": 1435,
+          "like_count": 14955,
+          "listed_count": 8,
+          "media_count": 426,
+          "tweet_count": 8142
+        },
+        "url": "https://t.co/YLzBwcv4VK",
+        "username": "qiu_song60259",
+        "verified": false
+      }
+    ]
+  }
+}

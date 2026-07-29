@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042606909086404616",
+    "conversation_id": "2047104128317607980",
+    "created_at": "2026-04-23T00:03:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T01:03:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047104128317607980"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 103,
+          "start": 99,
+          "tag": "地雷系"
+        },
+        {
+          "end": 108,
+          "start": 104,
+          "tag": "互fo"
+        },
+        {
+          "end": 118,
+          "start": 109,
+          "tag": "jiraitwt"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1266316422428258311",
+          "start": 3,
+          "username": "mania_chan_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/H3l8Ty1",
+          "end": 139,
+          "start": 119,
+          "url": "https://t.co/H3l8Ty1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047104128317607980",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024013576336212268",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mania_chan_: 做了一个新的置顶！\n我是狂爱！可以叫我狂酱！\n狂酱想把账号认真经营好！所以这是一个互fo帖啦！\n成分如下：自伤/psy/od/地雷\n想要和同成分的宝宝互关呀...\n#地雷系 #互fo #jiraitwt https://t.co/H3l8Ty1…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2047104128317607980].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2047104128317607980",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2047104128317607980"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1265,
+        "media_key": "3_2024013570695204865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBa9nm3bkAEntru.jpg",
+        "width": 1265
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2024013572511330309",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBa9ntobcAUn39I.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2024013572628750336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBa9nuEbIAA6DZG.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024013570695204865",
+            "3_2024013572511330309",
+            "3_2024013572628750336"
+          ]
+        },
+        "author_id": "1266316422428258311",
+        "conversation_id": "2024013576336212268",
+        "created_at": "2026-02-18T06:50:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T07:50:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024013576336212268"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 86,
+              "start": 82,
+              "tag": "地雷系"
+            },
+            {
+              "end": 91,
+              "start": 87,
+              "tag": "互fo"
+            },
+            {
+              "end": 101,
+              "start": 92,
+              "tag": "jiraitwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/H3l8Ty1O7a",
+              "end": 125,
+              "expanded_url": "https://x.com/mania_chan_/status/2024013576336212268/photo/1",
+              "media_key": "3_2024013570695204865",
+              "start": 102,
+              "url": "https://t.co/H3l8Ty1O7a"
+            },
+            {
+              "display_url": "pic.x.com/H3l8Ty1O7a",
+              "end": 125,
+              "expanded_url": "https://x.com/mania_chan_/status/2024013576336212268/photo/1",
+              "media_key": "3_2024013572511330309",
+              "start": 102,
+              "url": "https://t.co/H3l8Ty1O7a"
+            },
+            {
+              "display_url": "pic.x.com/H3l8Ty1O7a",
+              "end": 125,
+              "expanded_url": "https://x.com/mania_chan_/status/2024013576336212268/photo/1",
+              "media_key": "3_2024013572628750336",
+              "start": 102,
+              "url": "https://t.co/H3l8Ty1O7a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024013576336212268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3113,
+          "like_count": 25,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "做了一个新的置顶！\n我是狂爱！可以叫我狂酱！\n狂酱想把账号认真经营好！所以这是一个互fo帖啦！\n成分如下：自伤/psy/od/地雷\n想要和同成分的宝宝互关呀...\n#地雷系 #互fo #jiraitwt https://t.co/H3l8Ty1O7a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-10T14:14:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "South Heart, North Dakota, United States",
+              "geo": {
+                "coordinates": [
+                  -102.99157,
+                  46.86473
+                ],
+                "type": "Point"
+              },
+              "locality": "South Heart",
+              "region": "North Dakota",
+              "sub_region": "Stark County"
+            }
+          ]
+        },
+        "description": "Caco/呓语 已成年\n温良婊，微审回fo、无🚪欢迎来找我玩\n餐券三年/伪烟草品鉴砖家\n喜欢玩各种音游（邦多利为主）和明日方舟（澄闪厨",
+        "id": "2042606909086404616",
+        "location": "Your heart",
+        "name": "Camellia",
+        "pinned_tweet_id": "2046439284023152963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042609084139212801/zXgrc0gB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 425,
+          "like_count": 592,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 125
+        },
+        "username": "CacoooOvO",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-29T10:32:25.000Z",
+        "description": "🇨🇳\n中文/English/Français\n✍🏻Writer/🎶Composer\n🟦Asexual/Gender-neutral\n💊od/selfharm_cutting/psy\n✝️Christian",
+        "id": "1266316422428258311",
+        "location": "Heaven",
+        "name": "Licentious_Chirp_肆鳴_",
+        "pinned_tweet_id": "2024013576336212268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045529322942062593/NLZAQaB1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 247,
+          "like_count": 3344,
+          "listed_count": 2,
+          "media_count": 548,
+          "tweet_count": 2128
+        },
+        "username": "mania_chan_",
+        "verified": false
+      }
+    ]
+  }
+}

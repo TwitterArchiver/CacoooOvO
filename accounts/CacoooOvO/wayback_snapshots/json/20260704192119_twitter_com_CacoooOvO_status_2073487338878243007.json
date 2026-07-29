@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2072819312654528512"
+      ],
+      "media_source_tweet_id": [
+        "2072819365162971570"
+      ]
+    },
+    "author_id": "2042606909086404616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2073487338878243007",
+    "created_at": "2026-07-04T19:21:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T20:21:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073487338878243007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2069810001573519360",
+          "start": 3,
+          "username": "faggotcel"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hlrkONSUMB",
+          "end": 93,
+          "expanded_url": "https://x.com/faggotcel/status/2072819365162971570/video/1",
+          "media_key": "13_2072819312654528512",
+          "start": 70,
+          "url": "https://t.co/hlrkONSUMB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073487338878243007",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4449
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072819365162971570",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @faggotcel: first episode of chainsmoker cat was uh... interesting https://t.co/hlrkONSUMB"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14831,
+        "height": 720,
+        "media_key": "13_2072819312654528512",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2072819312654528512/img/t3Bs-oley4pp6WmW.jpg",
+        "public_metrics": {
+          "view_count": 4241222
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072819312654528512/vid/avc1/470x270/u8OhE9oHHXHPFvrn.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072819312654528512/vid/avc1/626x360/xjNlGYzsfgEHWBXf.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072819312654528512/vid/avc1/1254x720/FrW5HAuVk0oaXA68.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2072819312654528512/pl/LyuarRZf7aOGiN5O.m3u8?v=cfc"
+          }
+        ],
+        "width": 1254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2072819312654528512"
+          ],
+          "media_source_tweet_id": [
+            "2072819365162971570"
+          ]
+        },
+        "author_id": "2042606909086404616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2073487338878243007",
+        "created_at": "2026-07-04T19:21:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T20:21:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073487338878243007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2069810001573519360",
+              "start": 3,
+              "username": "faggotcel"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hlrkONSUMB",
+              "end": 93,
+              "expanded_url": "https://x.com/faggotcel/status/2072819365162971570/video/1",
+              "media_key": "13_2072819312654528512",
+              "start": 70,
+              "url": "https://t.co/hlrkONSUMB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073487338878243007",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4449
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072819365162971570",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @faggotcel: first episode of chainsmoker cat was uh... interesting https://t.co/hlrkONSUMB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2072819312654528512"
+          ]
+        },
+        "author_id": "2069810001573519360",
+        "conversation_id": "2072819365162971570",
+        "created_at": "2026-07-02T23:07:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T00:07:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072819365162971570"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hlrkONSUMB",
+              "end": 78,
+              "expanded_url": "https://x.com/faggotcel/status/2072819365162971570/video/1",
+              "media_key": "13_2072819312654528512",
+              "start": 55,
+              "url": "https://t.co/hlrkONSUMB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072819365162971570",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18704,
+          "impression_count": 9687508,
+          "like_count": 90996,
+          "quote_count": 1044,
+          "reply_count": 471,
+          "retweet_count": 4449
+        },
+        "reply_settings": "everyone",
+        "text": "first episode of chainsmoker cat was uh... interesting https://t.co/hlrkONSUMB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-10T14:14:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "South Heart, North Dakota, United States",
+              "geo": {
+                "coordinates": [
+                  -102.99157,
+                  46.86473
+                ],
+                "type": "Point"
+              },
+              "locality": "South Heart",
+              "region": "North Dakota",
+              "sub_region": "Stark County"
+            }
+          ]
+        },
+        "description": "Caco/呓语 友跨\n简中/繁中/En/日本語\n温良顺直，微审回fo 无🚪欢迎来找我玩\n不怀好意接近我的人我会b掉\n餐券🈹️/o三年 精神病康复中 热爱品鉴烟草\nbangdream/arknights",
+        "id": "2042606909086404616",
+        "location": "Your heart",
+        "name": "Caco",
+        "pinned_tweet_id": "2047514784875303418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042609084139212801/zXgrc0gB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 726,
+          "following_count": 829,
+          "like_count": 3211,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 449
+        },
+        "url": "",
+        "username": "CacoooOvO",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-24T15:57:39.000Z",
+        "description": "first day on the internet,, please be nice",
+        "id": "2069810001573519360",
+        "name": "faggotcel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070302455997300736/MaNlU0L4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 750,
+          "following_count": 218,
+          "like_count": 2290,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 190
+        },
+        "url": "",
+        "username": "faggotcel",
+        "verified": false
+      }
+    ]
+  }
+}

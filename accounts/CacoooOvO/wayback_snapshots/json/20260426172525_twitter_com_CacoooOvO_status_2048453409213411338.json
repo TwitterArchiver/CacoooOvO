@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042606909086404616",
+    "conversation_id": "2048452522134671458",
+    "created_at": "2026-04-26T17:25:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T18:25:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048453409213411338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1843360729199718404",
+          "start": 0,
+          "username": "longlongp97w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048453409213411338",
+    "in_reply_to_user_id": "1843360729199718404",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048452522134671458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@longlongp97w 龙…😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042606909086404616",
+        "conversation_id": "2048452522134671458",
+        "created_at": "2026-04-26T17:25:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T18:25:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048453409213411338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1843360729199718404",
+              "start": 0,
+              "username": "longlongp97w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048453409213411338",
+        "in_reply_to_user_id": "1843360729199718404",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048452522134671458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@longlongp97w 龙…😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843360729199718404",
+        "conversation_id": "2048452522134671458",
+        "created_at": "2026-04-26T17:21:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T18:21:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048452522134671458"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048452522134671458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "眼睁睁看着自己变成疯子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-10T14:14:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "South Heart, North Dakota, United States",
+              "geo": {
+                "coordinates": [
+                  -102.99157,
+                  46.86473
+                ],
+                "type": "Point"
+              },
+              "locality": "South Heart",
+              "region": "North Dakota",
+              "sub_region": "Stark County"
+            }
+          ]
+        },
+        "description": "Caco/呓语\n简中/繁中/En\n温良婊，微审回fo、无🚪欢迎来找我玩\n餐券🈹️/o三年/烟草品鉴\n喜欢玩各种音游（邦多利为主）和明日方舟（澄闪厨",
+        "id": "2042606909086404616",
+        "location": "Your heart",
+        "name": "Camellia",
+        "pinned_tweet_id": "2046822210850230557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042609084139212801/zXgrc0gB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 578,
+          "like_count": 844,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 203
+        },
+        "username": "CacoooOvO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T18:40:31.000Z",
+        "description": "‼️‼️‼️如果我的帖子让您感到不适，请立即拉黑我不要恶评，谢谢‼️‼️‼️双，但是自救成功，目前稳定（这段时间被恶心了应该不稳定了）ps.龙的聊天能力堪比人机，然后我不是同！想多找互关呀， #碎碎念",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 100,
+                "start": 96,
+                "tag": "碎碎念"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jjjjjjjj14864",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jjjjjjjj14864",
+                "start": 0,
+                "url": "https://t.co/oCgXhmsRO0"
+              }
+            ]
+          }
+        },
+        "id": "1843360729199718404",
+        "location": "阿美莉卡",
+        "name": "龙long",
+        "pinned_tweet_id": "2045270964162699734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041004546806468608/r_cGy1V2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 120,
+          "like_count": 6727,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 1310
+        },
+        "url": "https://t.co/oCgXhmsRO0",
+        "username": "longlongp97w",
+        "verified": false
+      }
+    ]
+  }
+}

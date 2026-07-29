@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042606909086404616",
+    "conversation_id": "2053450375454453901",
+    "created_at": "2026-05-10T12:21:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T13:21:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053450375454453901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2034586230881722368",
+          "start": 3,
+          "username": "hgds03"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053450375454453901",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 175
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053078913488973940",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hgds03: 靠在爱人的肩膀上最好了，用头发蹭蹭最好了，鼻子猛吸对方熟悉好闻的气味最好了，身体紧靠对方后背最好了，在一起的温度刚好是温暖舒适的最好了，十指相扣最好了，能贴着额头说我爱你最好了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042606909086404616",
+        "conversation_id": "2053450375454453901",
+        "created_at": "2026-05-10T12:21:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T13:21:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053450375454453901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2034586230881722368",
+              "start": 3,
+              "username": "hgds03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053450375454453901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 175
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053078913488973940",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hgds03: 靠在爱人的肩膀上最好了，用头发蹭蹭最好了，鼻子猛吸对方熟悉好闻的气味最好了，身体紧靠对方后背最好了，在一起的温度刚好是温暖舒适的最好了，十指相扣最好了，能贴着额头说我爱你最好了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034586230881722368",
+        "conversation_id": "2053078913488973940",
+        "created_at": "2026-05-09T11:45:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T12:45:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053078913488973940"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053078913488973940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 42676,
+          "like_count": 1358,
+          "quote_count": 29,
+          "reply_count": 91,
+          "retweet_count": 175
+        },
+        "reply_settings": "everyone",
+        "text": "靠在爱人的肩膀上最好了，用头发蹭蹭最好了，鼻子猛吸对方熟悉好闻的气味最好了，身体紧靠对方后背最好了，在一起的温度刚好是温暖舒适的最好了，十指相扣最好了，能贴着额头说我爱你最好了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-10T14:14:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "South Heart, North Dakota, United States",
+              "geo": {
+                "coordinates": [
+                  -102.99157,
+                  46.86473
+                ],
+                "type": "Point"
+              },
+              "locality": "South Heart",
+              "region": "North Dakota",
+              "sub_region": "Stark County"
+            }
+          ]
+        },
+        "description": "Caco/呓语 友跨\n六月正式回归 期间偶尔发帖证明我还活着…\n简中/繁中/En/日本語\n温良婊，微审回fo、无🚪欢迎来找我玩\n餐券🈹️/o三年/烟草品鉴\n喜欢玩各种音游（邦多利为主）和明日方舟（澄闪厨",
+        "id": "2042606909086404616",
+        "location": "Your heart",
+        "name": "Caco",
+        "pinned_tweet_id": "2047514784875303418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042609084139212801/zXgrc0gB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 588,
+          "following_count": 718,
+          "like_count": 2347,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 378
+        },
+        "username": "CacoooOvO",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-19T11:02:47.000Z",
+        "description": "我们只是网友，你把手机摔了我就死了，放过彼此OK？放下手中的屠刀，神在救你\n匿名箱📮https://t.co/2OAcbUUA79",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hgds03",
+                "end": 65,
+                "expanded_url": "https://ngl.link/hgds03",
+                "start": 42,
+                "url": "https://t.co/2OAcbUUA79"
+              }
+            ]
+          }
+        },
+        "id": "2034586230881722368",
+        "location": "世界上最忧郁的人",
+        "name": "哈根达斯",
+        "pinned_tweet_id": "2044021776032886975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043304519770226688/xqFH8lfE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2872,
+          "following_count": 292,
+          "like_count": 2372,
+          "listed_count": 4,
+          "media_count": 21,
+          "tweet_count": 287
+        },
+        "username": "hgds03",
+        "verified": false
+      }
+    ]
+  }
+}

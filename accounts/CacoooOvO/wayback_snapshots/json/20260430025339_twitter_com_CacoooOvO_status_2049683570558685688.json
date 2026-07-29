@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042606909086404616",
+    "conversation_id": "2049514199399977142",
+    "created_at": "2026-04-30T02:53:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T03:53:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049683570558685688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2047273781098639360",
+          "start": 0,
+          "username": "Yamamotokoroshi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049683570558685688",
+    "in_reply_to_user_id": "2047273781098639360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049514199399977142",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yamamotokoroshi ✝️升天✝️"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2049514199399977142].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2049514199399977142",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2049514199399977142"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042606909086404616",
+        "conversation_id": "2049514199399977142",
+        "created_at": "2026-04-30T02:53:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T03:53:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049683570558685688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2047273781098639360",
+              "start": 0,
+              "username": "Yamamotokoroshi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049683570558685688",
+        "in_reply_to_user_id": "2047273781098639360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049514199399977142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamamotokoroshi ✝️升天✝️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-10T14:14:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "South Heart, North Dakota, United States",
+              "geo": {
+                "coordinates": [
+                  -102.99157,
+                  46.86473
+                ],
+                "type": "Point"
+              },
+              "locality": "South Heart",
+              "region": "North Dakota",
+              "sub_region": "Stark County"
+            }
+          ]
+        },
+        "description": "Caco/呓语 友跨\n简中/繁中/En/日本語\n温良婊，微审回fo、无🚪欢迎来找我玩\n餐券🈹️/o三年/烟草品鉴\n喜欢玩各种音游（邦多利为主）和明日方舟（澄闪厨",
+        "id": "2042606909086404616",
+        "location": "Your heart",
+        "name": "Camellia",
+        "pinned_tweet_id": "2046822210850230557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042609084139212801/zXgrc0gB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 645,
+          "like_count": 1337,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 269
+        },
+        "username": "CacoooOvO",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-23T11:24:20.000Z",
+        "description": "@lengcuicui119大号\n@cVPrL20wIa42392二世（活着，登不上去）\n白兔pr重度依赖，可以叫我小杀，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/二三涉/药理学习中🥰/随缘互fo/但请不要问我物质渠道，也不出售任何物质🙂‍↔️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "lengcuicui119"
+              },
+              {
+                "end": 33,
+                "start": 17,
+                "username": "cVPrL20wIa42392"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/N7xkTQ0fnX"
+              }
+            ]
+          }
+        },
+        "id": "2047273781098639360",
+        "location": "✟升天✟",
+        "name": "山本殺し✟秽土三",
+        "pinned_tweet_id": "2047533747290210413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047275597890727936/yfKW1ISI_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 354,
+          "like_count": 574,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 416
+        },
+        "url": "https://t.co/N7xkTQ0fnX",
+        "username": "Yamamotokoroshi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042606909086404616",
+    "conversation_id": "2052159748846534729",
+    "created_at": "2026-05-07T02:36:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T03:36:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052216001371295786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1565405457493405696",
+          "start": 0,
+          "username": "HaTnT07"
+        },
+        {
+          "end": 18,
+          "id": "1677549435662880769",
+          "start": 9,
+          "username": "se7enqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052216001371295786",
+    "in_reply_to_user_id": "1565405457493405696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052159748846534729",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HaTnT07 @se7enqwq 蹲蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042606909086404616",
+        "conversation_id": "2052159748846534729",
+        "created_at": "2026-05-07T02:36:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T03:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052216001371295786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1565405457493405696",
+              "start": 0,
+              "username": "HaTnT07"
+            },
+            {
+              "end": 18,
+              "id": "1677549435662880769",
+              "start": 9,
+              "username": "se7enqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052216001371295786",
+        "in_reply_to_user_id": "1565405457493405696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052159748846534729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HaTnT07 @se7enqwq 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565405457493405696",
+        "conversation_id": "2052159748846534729",
+        "created_at": "2026-05-06T22:53:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T23:53:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052159748846534729"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052159748846534729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1300,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 49,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "提前发个5000fo福利🧧\n\n要求：评论➕点赞➕转帖\n\n🎁奖品包括⬇️\n1.麦当劳两份（折现88.88r）\n2.小蛋糕一份（折现52r）\n3.奶茶三份（折现28.88r）\n4.原味一份（折现18.88r）\n4.视频永久分享权两份（折现18.88r）\n5.线下见面（卡建模 折现188.88r）\n\n总共抽10个人 满足要求即有中奖机会\n  ♡男女都抽♡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-10T14:14:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "South Heart, North Dakota, United States",
+              "geo": {
+                "coordinates": [
+                  -102.99157,
+                  46.86473
+                ],
+                "type": "Point"
+              },
+              "locality": "South Heart",
+              "region": "North Dakota",
+              "sub_region": "Stark County"
+            }
+          ]
+        },
+        "description": "Caco/呓语 友跨\n六月正式回归 期间偶尔发帖证明我还活着…\n简中/繁中/En/日本語\n温良婊，微审回fo、无🚪欢迎来找我玩\n餐券🈹️/o三年/烟草品鉴\n喜欢玩各种音游（邦多利为主）和明日方舟（澄闪厨",
+        "id": "2042606909086404616",
+        "location": "Your heart",
+        "name": "Caco",
+        "pinned_tweet_id": "2047514784875303418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042609084139212801/zXgrc0gB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 583,
+          "following_count": 659,
+          "like_count": 1937,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 336
+        },
+        "url": "",
+        "username": "CacoooOvO",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-01T18:25:47.000Z",
+        "description": "^з^🚪288口令➕v｜可验证可联系tg",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ruana7y",
+                "end": 23,
+                "expanded_url": "https://t.me/Ruana7y",
+                "start": 0,
+                "url": "https://t.co/Lf98H9mBYF"
+              }
+            ]
+          }
+        },
+        "id": "1565405457493405696",
+        "location": "0.91km",
+        "name": "软软誓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046697555078041600/lkitFy_r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4876,
+          "following_count": 19,
+          "like_count": 1609,
+          "listed_count": 4,
+          "media_count": 14,
+          "tweet_count": 137
+        },
+        "url": "https://t.co/Lf98H9mBYF",
+        "username": "HaTnT07",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-08T05:25:41.000Z",
+        "description": "",
+        "id": "1677549435662880769",
+        "name": "收敛水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025199029995630592/oTrhRQQp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 324,
+          "like_count": 237,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 118
+        },
+        "url": "",
+        "username": "se7enqwq",
+        "verified": false
+      }
+    ]
+  }
+}

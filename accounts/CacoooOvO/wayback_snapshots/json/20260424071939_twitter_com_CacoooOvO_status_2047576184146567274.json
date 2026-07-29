@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045270958605307905",
+        "3_2045270958659764224"
+      ],
+      "media_source_tweet_id": [
+        "2045270964162699734",
+        "2045270964162699734"
+      ]
+    },
+    "author_id": "2042606909086404616",
+    "conversation_id": "2047576184146567274",
+    "created_at": "2026-04-24T07:19:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T08:19:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047576184146567274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1843360729199718404",
+          "start": 3,
+          "username": "longlongp97w"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eBk0iH8wYs",
+          "end": 58,
+          "expanded_url": "https://x.com/longlongp97w/status/2045270964162699734/photo/1",
+          "media_key": "3_2045270958605307905",
+          "start": 35,
+          "url": "https://t.co/eBk0iH8wYs"
+        },
+        {
+          "display_url": "pic.x.com/eBk0iH8wYs",
+          "end": 58,
+          "expanded_url": "https://x.com/longlongp97w/status/2045270964162699734/photo/1",
+          "media_key": "3_2045270958659764224",
+          "start": 35,
+          "url": "https://t.co/eBk0iH8wYs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047576184146567274",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045270964162699734",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @longlongp97w: 龙🐲的自介贴，很欢迎有人互fo呀 https://t.co/eBk0iH8wYs"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2047576184146567274].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2047576184146567274",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2047576184146567274"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045270958605307905",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGJDGb0XkAEOour.jpg",
+        "width": 944
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2045270958659764224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGJDGcBWgAADx0V.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045270958605307905",
+            "3_2045270958659764224"
+          ]
+        },
+        "author_id": "1843360729199718404",
+        "conversation_id": "2045270964162699734",
+        "created_at": "2026-04-17T22:39:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T23:39:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045270964162699734"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eBk0iH8wYs",
+              "end": 40,
+              "expanded_url": "https://x.com/longlongp97w/status/2045270964162699734/photo/1",
+              "media_key": "3_2045270958605307905",
+              "start": 17,
+              "url": "https://t.co/eBk0iH8wYs"
+            },
+            {
+              "display_url": "pic.x.com/eBk0iH8wYs",
+              "end": 40,
+              "expanded_url": "https://x.com/longlongp97w/status/2045270964162699734/photo/1",
+              "media_key": "3_2045270958659764224",
+              "start": 17,
+              "url": "https://t.co/eBk0iH8wYs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045270964162699734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2861,
+          "like_count": 25,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "龙🐲的自介贴，很欢迎有人互fo呀 https://t.co/eBk0iH8wYs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-10T14:14:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "South Heart, North Dakota, United States",
+              "geo": {
+                "coordinates": [
+                  -102.99157,
+                  46.86473
+                ],
+                "type": "Point"
+              },
+              "locality": "South Heart",
+              "region": "North Dakota",
+              "sub_region": "Stark County"
+            }
+          ]
+        },
+        "description": "Caco/呓语 已成年\n温良婊，微审回fo、无🚪欢迎来找我玩\n餐券🈹️/o三年/伪烟草品鉴砖家\n喜欢玩各种音游（邦多利为主）和明日方舟（澄闪厨",
+        "id": "2042606909086404616",
+        "location": "Your heart",
+        "name": "Camellia",
+        "pinned_tweet_id": "2046822210850230557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042609084139212801/zXgrc0gB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 477,
+          "like_count": 694,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 153
+        },
+        "username": "CacoooOvO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T18:40:31.000Z",
+        "description": "‼️‼️‼️如果我的帖子让您感到不适，请立即拉黑我不要恶评，谢谢‼️‼️‼️双，但是自救成功，目前稳定（这段时间被恶心了应该不稳定了）ps.龙的聊天能力堪比人机，然后我不是同！想多找互关呀， #碎碎念",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 100,
+                "start": 96,
+                "tag": "碎碎念"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jjjjjjjj14864",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jjjjjjjj14864",
+                "start": 0,
+                "url": "https://t.co/oCgXhmsRO0"
+              }
+            ]
+          }
+        },
+        "id": "1843360729199718404",
+        "location": "阿美莉卡",
+        "name": "龙long",
+        "pinned_tweet_id": "2045270964162699734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041004546806468608/r_cGy1V2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 104,
+          "like_count": 5604,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 1173
+        },
+        "url": "https://t.co/oCgXhmsRO0",
+        "username": "longlongp97w",
+        "verified": false
+      }
+    ]
+  }
+}
