@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-29T11:59:27",
+  "last_updated": "2026-07-29T11:59:59",
   "html": {
     "https://web.archive.org/web/20260414125005if_/https://twitter.com/CacoooOvO/status/2044035462420115579": {
       "status": "done",
@@ -4002,18 +4002,18 @@
       "referenced_by": [
         "20260601153650_twitter_com_CacoooOvO_status_2061472046702563458.json"
       ],
-      "last_updated": "2026-07-29T09:30:49",
+      "last_updated": "2026-07-29T11:59:45",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260601153650/https://video.twimg.com/amplify_video/2061384550224445440/vid/avc1/720x1280/a_3-_nOl0A_GHU7i.mp4",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2073169967521157120/vid/avc1/720x1280/ZoD3H8HuRIS-mSGU.mp4": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260703222029_twitter_com_CacoooOvO_status_2073170037524115787.json"
       ],
-      "last_updated": "2026-07-29T09:30:55",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260703222029/https://video.twimg.com/amplify_video/2073169967521157120/vid/avc1/720x1280/ZoD3H8HuRIS-mSGU.mp4",
-      "miss_count": 1
+      "last_updated": "2026-07-29T11:59:55",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260703222029if_/https://video.twimg.com/amplify_video/2073169967521157120/vid/avc1/720x1280/ZoD3H8HuRIS-mSGU.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe48fdf2b40>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2073170454286925824/vid/avc1/720x1280/Zg8_J3k7ioxkoS_h.mp4": {
       "status": "done",
@@ -4024,13 +4024,13 @@
       "last_updated": "2026-07-29T09:30:46"
     },
     "https://video.twimg.com/amplify_video/2073227824849432576/vid/avc1/720x1280/gzBHCQ82gEzeU9pI.mp4": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260704031840_twitter_com_CacoooOvO_status_2073245079100383320.json"
       ],
-      "last_updated": "2026-07-29T09:30:51",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260704031840/https://video.twimg.com/amplify_video/2073227824849432576/vid/avc1/720x1280/gzBHCQ82gEzeU9pI.mp4",
-      "miss_count": 1
+      "last_updated": "2026-07-29T11:59:59",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260704031840im_/https://video.twimg.com/amplify_video/2073227824849432576/vid/avc1/720x1280/gzBHCQ82gEzeU9pI.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe48ff35e80>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2072819312654528512/vid/avc1/1254x720/FrW5HAuVk0oaXA68.mp4": {
       "status": "done",
@@ -13604,7 +13604,7 @@
       "last_updated": "2026-07-29T09:31:56"
     },
     "20260703222029_twitter_com_CacoooOvO_status_2073170037524115787.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [
@@ -13614,7 +13614,7 @@
           "https://pbs.twimg.com/profile_images/2042609084139212801/zXgrc0gB_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-29T09:31:56"
+      "last_updated": "2026-07-29T11:59:55"
     },
     "20260703222224_twitter_com_CacoooOvO_status_2073170521190170912.json": {
       "status": "done",
@@ -13654,7 +13654,7 @@
       "last_updated": "2026-07-29T09:31:56"
     },
     "20260704031840_twitter_com_CacoooOvO_status_2073245079100383320.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [
@@ -13665,7 +13665,7 @@
           "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-29T09:32:08"
+      "last_updated": "2026-07-29T11:59:59"
     },
     "20260704031904_twitter_com_CacoooOvO_status_2073245177549090925.json": {
       "status": "done",
