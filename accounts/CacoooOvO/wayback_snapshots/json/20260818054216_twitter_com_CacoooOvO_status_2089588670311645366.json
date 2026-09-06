@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2089588637323460608"
+      ]
+    },
+    "author_id": "2042606909086404616",
+    "conversation_id": "2089588670311645366",
+    "created_at": "2026-08-18T05:42:16.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T06:42:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089588670311645366"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GY9nHW4ssA",
+          "end": 32,
+          "expanded_url": "https://x.com/CacoooOvO/status/2089588670311645366/video/1",
+          "media_key": "13_2089588637323460608",
+          "start": 9,
+          "url": "https://t.co/GY9nHW4ssA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089588670311645366",
+    "lang": "tr",
+    "media_metadata": [
+      {
+        "media_key": "13_2089588637323460608"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "pattaya😼 https://t.co/GY9nHW4ssA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9701,
+        "height": 1280,
+        "media_key": "13_2089588637323460608",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2089588637323460608/img/mhGi5jsFMcfmGltZ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089588637323460608/vid/avc1/320x568/EBtA2Z6RvR_u_vcl.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089588637323460608/vid/avc1/480x852/woQZHRXNFwQZ90VL.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089588637323460608/vid/avc1/720x1280/9JoyhB4EJ_kS2B-U.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2089588637323460608/pl/_zU7fs05RYbZXi7C.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089588637323460608"
+          ]
+        },
+        "author_id": "2042606909086404616",
+        "conversation_id": "2089588670311645366",
+        "created_at": "2026-08-18T05:42:16.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T06:42:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089588670311645366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GY9nHW4ssA",
+              "end": 32,
+              "expanded_url": "https://x.com/CacoooOvO/status/2089588670311645366/video/1",
+              "media_key": "13_2089588637323460608",
+              "start": 9,
+              "url": "https://t.co/GY9nHW4ssA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089588670311645366",
+        "lang": "tr",
+        "media_metadata": [
+          {
+            "media_key": "13_2089588637323460608"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "pattaya😼 https://t.co/GY9nHW4ssA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-10T14:14:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "South Heart, North Dakota, United States",
+              "geo": {
+                "coordinates": [
+                  -102.99157,
+                  46.86473
+                ],
+                "type": "Point"
+              },
+              "locality": "South Heart",
+              "region": "North Dakota",
+              "sub_region": "Stark County"
+            }
+          ]
+        },
+        "description": "Caco/呓语 友跨\n简中/繁中/En/日本語\n温良顺直，微审回fo 无🚪欢迎来找我玩\n不怀好意接近我的人我会b掉\n餐券🈹️/o三年 精神病康复中 热爱品鉴烟草\nbangdream/arknights",
+        "id": "2042606909086404616",
+        "is_identity_verified": false,
+        "location": "Your heart",
+        "most_recent_tweet_id": "2089588670311645366",
+        "name": "Caco",
+        "pinned_tweet_id": "2047514784875303418",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042606909086404616/1775831018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042609084139212801/zXgrc0gB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 730,
+          "following_count": 803,
+          "like_count": 3452,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 472
+        },
+        "url": "",
+        "username": "CacoooOvO",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

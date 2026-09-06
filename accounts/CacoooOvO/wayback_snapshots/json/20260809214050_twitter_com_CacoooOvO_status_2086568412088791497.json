@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042606909086404616",
+    "conversation_id": "2086393738377744470",
+    "created_at": "2026-08-09T21:40:50.000Z",
+    "display_text_range": [
+      11,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T22:40:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086568412088791497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1968539901084815361",
+          "start": 0,
+          "username": "Lin100710"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086568412088791497",
+    "in_reply_to_user_id": "1968539901084815361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086516359161348264",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lin100710 我买的四块21mg 还不错"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042606909086404616",
+        "conversation_id": "2086393738377744470",
+        "created_at": "2026-08-09T21:40:50.000Z",
+        "display_text_range": [
+          11,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T22:40:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086568412088791497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1968539901084815361",
+              "start": 0,
+              "username": "Lin100710"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086568412088791497",
+        "in_reply_to_user_id": "1968539901084815361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086516359161348264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lin100710 我买的四块21mg 还不错"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1968539901084815361",
+        "conversation_id": "2086393738377744470",
+        "created_at": "2026-08-09T18:14:00.000Z",
+        "display_text_range": [
+          12,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T19:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086516359161348264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1624337198765178881",
+              "start": 0,
+              "username": "niconekkod"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086516359161348264",
+        "in_reply_to_user_id": "1624337198765178881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 507,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086393738377744470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@niconekkod 右佐匹克隆好贵啊…。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-10T14:14:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "South Heart, North Dakota, United States",
+              "geo": {
+                "coordinates": [
+                  -102.99157,
+                  46.86473
+                ],
+                "type": "Point"
+              },
+              "locality": "South Heart",
+              "region": "North Dakota",
+              "sub_region": "Stark County"
+            }
+          ]
+        },
+        "description": "Caco/呓语 友跨\n简中/繁中/En/日本語\n温良顺直，微审回fo 无🚪欢迎来找我玩\n不怀好意接近我的人我会b掉\n餐券🈹️/o三年 精神病康复中 热爱品鉴烟草\nbangdream/arknights",
+        "id": "2042606909086404616",
+        "is_identity_verified": false,
+        "location": "Your heart",
+        "most_recent_tweet_id": "2086568412088791497",
+        "name": "Caco",
+        "pinned_tweet_id": "2047514784875303418",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042606909086404616/1775831018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042609084139212801/zXgrc0gB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 732,
+          "following_count": 812,
+          "like_count": 3427,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 466
+        },
+        "url": "",
+        "username": "CacoooOvO",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-18T04:58:01.000Z",
+        "description": "",
+        "id": "1968539901084815361",
+        "is_identity_verified": false,
+        "location": "日本 兵库县",
+        "most_recent_tweet_id": "2086516359161348264",
+        "name": "你有半分真心吗",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1968539901084815361/1763057925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062621847007690752/NRY1lTPz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 24,
+          "like_count": 1327,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 218
+        },
+        "url": "",
+        "username": "Lin100710",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

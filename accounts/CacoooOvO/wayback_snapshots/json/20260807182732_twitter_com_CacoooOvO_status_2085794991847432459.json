@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042606909086404616",
+    "conversation_id": "2085794991847432459",
+    "created_at": "2026-08-07T18:27:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T19:27:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085794991847432459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1809463263673102337",
+          "start": 3,
+          "username": "TangS44614"
+        },
+        {
+          "end": 32,
+          "id": "1949081238901510144",
+          "start": 16,
+          "username": "Jayparkelotitob"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085794991847432459",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085552808963805649",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TangS44614: @Jayparkelotitob 真把我逗乐了，Mina是在外网开的直播，你们这些洋妞把人家骂死了，现在又把责任推到中国人身上，并且公然挑起国家之间的对立，莫非你是一个种族歧视者，你这辈子都完了，你这个败类"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042606909086404616",
+        "conversation_id": "2085794991847432459",
+        "created_at": "2026-08-07T18:27:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T19:27:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085794991847432459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1809463263673102337",
+              "start": 3,
+              "username": "TangS44614"
+            },
+            {
+              "end": 32,
+              "id": "1949081238901510144",
+              "start": 16,
+              "username": "Jayparkelotitob"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085794991847432459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085552808963805649",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TangS44614: @Jayparkelotitob 真把我逗乐了，Mina是在外网开的直播，你们这些洋妞把人家骂死了，现在又把责任推到中国人身上，并且公然挑起国家之间的对立，莫非你是一个种族歧视者，你这辈子都完了，你这个败类"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809463263673102337",
+        "conversation_id": "2085499916663857271",
+        "created_at": "2026-08-07T02:25:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T03:25:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085552808963805649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1949081238901510144",
+              "start": 0,
+              "username": "Jayparkelotitob"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085552808963805649",
+        "in_reply_to_user_id": "1949081238901510144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47407,
+          "like_count": 3272,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085499916663857271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jayparkelotitob 真把我逗乐了，Mina是在外网开的直播，你们这些洋妞把人家骂死了，现在又把责任推到中国人身上，并且公然挑起国家之间的对立，莫非你是一个种族歧视者，你这辈子都完了，你这个败类"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-10T14:14:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "South Heart, North Dakota, United States",
+              "geo": {
+                "coordinates": [
+                  -102.99157,
+                  46.86473
+                ],
+                "type": "Point"
+              },
+              "locality": "South Heart",
+              "region": "North Dakota",
+              "sub_region": "Stark County"
+            }
+          ]
+        },
+        "description": "Caco/呓语 友跨\n简中/繁中/En/日本語\n温良顺直，微审回fo 无🚪欢迎来找我玩\n不怀好意接近我的人我会b掉\n餐券🈹️/o三年 精神病康复中 热爱品鉴烟草\nbangdream/arknights",
+        "id": "2042606909086404616",
+        "location": "Your heart",
+        "name": "Caco",
+        "pinned_tweet_id": "2047514784875303418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042609084139212801/zXgrc0gB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 738,
+          "following_count": 817,
+          "like_count": 3424,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 465
+        },
+        "url": "",
+        "username": "CacoooOvO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-06T05:44:14.000Z",
+        "description": "此账号发表的所有言论，意在取悦自己，并通过文字 或图片强制干预他人的思想，如果翻阅之后出现不适 等症状，恭喜你，你怀了我的孩子。",
+        "id": "1809463263673102337",
+        "name": "拖延症",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809464342007398400/3F219CMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 55,
+          "like_count": 131,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 15
+        },
+        "url": "",
+        "username": "TangS44614",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-26T12:17:33.000Z",
+        "description": "﹒⪩⪨﹒ enhypen is \n╰┈➤ OT7 forever\nhee volvera la fe es lo mas bonito",
+        "id": "1949081238901510144",
+        "name": "ENHYPEN is 7",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085106639833591809/8OPTJF1w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3721,
+          "following_count": 133,
+          "like_count": 5692,
+          "listed_count": 1,
+          "media_count": 722,
+          "tweet_count": 1729
+        },
+        "url": "",
+        "username": "Jayparkelotitob",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042606909086404616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Vaping",
+          "id": "1047109035600764929",
+          "name": "Vaping"
+        }
+      }
+    ],
+    "conversation_id": "2094847253714477503",
+    "created_at": "2026-09-01T17:58:00.000Z",
+    "display_text_range": [
+      0,
+      129
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T18:58:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094847253714477503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "927933544705306624",
+          "start": 3,
+          "username": "nomoresimp4u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094847253714477503",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6322
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094475276982136971",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nomoresimp4u: Prohíban los vapes 🗣️🗣️🗣️\n\nLas universidades no deben oler a fruticas, las universidades deben oler a marihuana"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042606909086404616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Vaping",
+              "id": "1047109035600764929",
+              "name": "Vaping"
+            }
+          }
+        ],
+        "conversation_id": "2094847253714477503",
+        "created_at": "2026-09-01T17:58:00.000Z",
+        "display_text_range": [
+          0,
+          129
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T18:58:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094847253714477503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "927933544705306624",
+              "start": 3,
+              "username": "nomoresimp4u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094847253714477503",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6322
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094475276982136971",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nomoresimp4u: Prohíban los vapes 🗣️🗣️🗣️\n\nLas universidades no deben oler a fruticas, las universidades deben oler a marihuana"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "927933544705306624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Vaping",
+              "id": "1047109035600764929",
+              "name": "Vaping"
+            }
+          }
+        ],
+        "conversation_id": "2094475276982136971",
+        "created_at": "2026-08-31T17:19:54.000Z",
+        "display_text_range": [
+          0,
+          111
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T18:19:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094475276982136971"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094475276982136971",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 621,
+          "impression_count": 434543,
+          "like_count": 52172,
+          "quote_count": 229,
+          "reply_count": 53,
+          "retweet_count": 6322
+        },
+        "reply_settings": "everyone",
+        "text": "Prohíban los vapes 🗣️🗣️🗣️\n\nLas universidades no deben oler a fruticas, las universidades deben oler a marihuana"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-10T14:14:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "South Heart, North Dakota, United States",
+              "geo": {
+                "coordinates": [
+                  -102.99157,
+                  46.86473
+                ],
+                "type": "Point"
+              },
+              "locality": "South Heart",
+              "region": "North Dakota",
+              "sub_region": "Stark County"
+            }
+          ]
+        },
+        "description": "Caco/呓语 友跨\n简中/繁中/En/日本語\n温良顺直，微审回fo 无🚪欢迎来找我玩\n不怀好意接近我的人我会b掉\n餐券🈹️/o三年 精神病康复中 热爱品鉴烟草\nbangdream/arknights",
+        "id": "2042606909086404616",
+        "is_identity_verified": false,
+        "location": "Your heart",
+        "most_recent_tweet_id": "2094847253714477503",
+        "name": "Caco",
+        "pinned_tweet_id": "2047514784875303418",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042606909086404616/1775831018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042609084139212801/zXgrc0gB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 788,
+          "like_count": 3433,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 511
+        },
+        "url": "",
+        "username": "CacoooOvO",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-11-07T16:19:32.000Z",
+        "description": "mx, +21 , he/him, maldito hetero mediocre\n\n#obslove #drugtwt #weedtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 51,
+                "start": 43,
+                "tag": "obslove"
+              },
+              {
+                "end": 60,
+                "start": 52,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 69,
+                "start": 61,
+                "tag": "weedtwt"
+              }
+            ]
+          }
+        },
+        "id": "927933544705306624",
+        "is_identity_verified": false,
+        "location": "Mexico",
+        "most_recent_tweet_id": "2094821673262628998",
+        "name": "keloke max",
+        "pinned_tweet_id": "2094475276982136971",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/927933544705306624/1784864590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077192202099519488/cWILe6Ad_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2573,
+          "following_count": 1583,
+          "like_count": 24773,
+          "listed_count": 4,
+          "media_count": 103,
+          "tweet_count": 706
+        },
+        "url": "",
+        "username": "nomoresimp4u",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
