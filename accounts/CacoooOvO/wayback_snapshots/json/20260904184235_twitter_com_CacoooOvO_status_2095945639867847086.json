@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042606909086404616",
+    "conversation_id": "2095929375304856002",
+    "created_at": "2026-09-04T18:42:35.000Z",
+    "display_text_range": [
+      14,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T19:42:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095945639867847086"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1733692753899569152",
+          "start": 0,
+          "username": "AmiyaArk0106"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095945639867847086",
+    "in_reply_to_user_id": "1733692753899569152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095932693662052624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmiyaArk0106 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042606909086404616",
+        "conversation_id": "2095929375304856002",
+        "created_at": "2026-09-04T18:42:35.000Z",
+        "display_text_range": [
+          14,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T19:42:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095945639867847086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1733692753899569152",
+              "start": 0,
+              "username": "AmiyaArk0106"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095945639867847086",
+        "in_reply_to_user_id": "1733692753899569152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095932693662052624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmiyaArk0106 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733692753899569152",
+        "conversation_id": "2095929375304856002",
+        "created_at": "2026-09-04T17:51:09.000Z",
+        "display_text_range": [
+          11,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T18:51:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095932693662052624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2042606909086404616",
+              "start": 0,
+              "username": "CacoooOvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095932693662052624",
+        "in_reply_to_user_id": "2042606909086404616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095929375304856002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CacoooOvO 抱抱你喵"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-10T14:14:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "South Heart, North Dakota, United States",
+              "geo": {
+                "coordinates": [
+                  -102.99157,
+                  46.86473
+                ],
+                "type": "Point"
+              },
+              "locality": "South Heart",
+              "region": "North Dakota",
+              "sub_region": "Stark County"
+            }
+          ]
+        },
+        "description": "Caco/呓语 友跨\n简中/繁中/En/日本語\n温良顺直，微审回fo 无🚪欢迎来找我玩\n不怀好意接近我的人我会b掉\n餐券🈹️/o三年 精神病康复中 热爱品鉴烟草\nbangdream/arknights",
+        "id": "2042606909086404616",
+        "is_identity_verified": false,
+        "location": "Your heart",
+        "most_recent_tweet_id": "2095945639867847086",
+        "name": "Caco",
+        "pinned_tweet_id": "2050406350707208321",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042606909086404616/1775831018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042609084139212801/zXgrc0gB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 788,
+          "like_count": 3454,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 521
+        },
+        "url": "",
+        "username": "CacoooOvO",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-10T03:39:55.000Z",
+        "description": "“爱具体的人，不要爱抽象的人；\n  爱生活本身，胜于爱生活的意义”\n                                               ——陀思妥耶夫斯基\n点击给我发匿名消息喵↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amiyaark01061",
+                "end": 23,
+                "expanded_url": "https://ngl.link/amiyaark01061",
+                "start": 0,
+                "url": "https://t.co/Y5nxNE2lG9"
+              }
+            ]
+          }
+        },
+        "id": "1733692753899569152",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095937601819832722",
+        "name": "社恐猫猫Ark🐱",
+        "pinned_tweet_id": "2094999110789251152",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1733692753899569152/1788339807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094995432531456000/r7qr_TGG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 379,
+          "like_count": 6570,
+          "listed_count": 0,
+          "media_count": 181,
+          "tweet_count": 2649
+        },
+        "url": "https://t.co/Y5nxNE2lG9",
+        "username": "AmiyaArk0106",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

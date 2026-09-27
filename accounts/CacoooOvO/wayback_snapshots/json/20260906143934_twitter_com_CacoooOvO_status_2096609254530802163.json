@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096609237975924736",
+        "3_2096609238399455233"
+      ]
+    },
+    "author_id": "2042606909086404616",
+    "conversation_id": "2096609254530802163",
+    "created_at": "2026-09-06T14:39:34.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T15:39:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096609254530802163"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/G9JCzUf8MQ",
+          "end": 64,
+          "expanded_url": "https://x.com/CacoooOvO/status/2096609254530802163/photo/1",
+          "media_key": "3_2096609237975924736",
+          "start": 41,
+          "url": "https://t.co/G9JCzUf8MQ"
+        },
+        {
+          "display_url": "pic.x.com/G9JCzUf8MQ",
+          "end": 64,
+          "expanded_url": "https://x.com/CacoooOvO/status/2096609254530802163/photo/1",
+          "media_key": "3_2096609238399455233",
+          "start": 41,
+          "url": "https://t.co/G9JCzUf8MQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096609254530802163",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096609237975924736"
+      },
+      {
+        "media_key": "3_2096609238399455233"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是我的纹身 不是自残 不是自残 不是自残 这是我的空针纹身 不要封我了 我错了 https://t.co/G9JCzUf8MQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096609237975924736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRim_l5bgAAnzhj.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2096609238399455233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRim_neaEAE_J6u.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096609237975924736",
+            "3_2096609238399455233"
+          ]
+        },
+        "author_id": "2042606909086404616",
+        "conversation_id": "2096609254530802163",
+        "created_at": "2026-09-06T14:39:34.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T15:39:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096609254530802163"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G9JCzUf8MQ",
+              "end": 64,
+              "expanded_url": "https://x.com/CacoooOvO/status/2096609254530802163/photo/1",
+              "media_key": "3_2096609237975924736",
+              "start": 41,
+              "url": "https://t.co/G9JCzUf8MQ"
+            },
+            {
+              "display_url": "pic.x.com/G9JCzUf8MQ",
+              "end": 64,
+              "expanded_url": "https://x.com/CacoooOvO/status/2096609254530802163/photo/1",
+              "media_key": "3_2096609238399455233",
+              "start": 41,
+              "url": "https://t.co/G9JCzUf8MQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096609254530802163",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096609237975924736"
+          },
+          {
+            "media_key": "3_2096609238399455233"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是我的纹身 不是自残 不是自残 不是自残 这是我的空针纹身 不要封我了 我错了 https://t.co/G9JCzUf8MQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-10T14:14:51.000Z",
+        "description": "Caco/呓语 友跨\n简中/繁中/En/日本語\n温良顺直，微审回fo 无🚪欢迎来找我玩\n不怀好意接近我的人我会b掉\n餐券🈹️/o三年 精神病康复中 热爱品鉴烟草\nbangdream/arknights",
+        "id": "2042606909086404616",
+        "is_identity_verified": false,
+        "location": "Your heart",
+        "most_recent_tweet_id": "2096609254530802163",
+        "name": "Caco",
+        "pinned_tweet_id": "2050406350707208321",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042606909086404616/1775831018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042609084139212801/zXgrc0gB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 709,
+          "following_count": 787,
+          "like_count": 3452,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 524
+        },
+        "url": "",
+        "username": "CacoooOvO",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
